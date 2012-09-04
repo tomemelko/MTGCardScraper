@@ -1,9 +1,6 @@
 import xml.etree.ElementTree as ET
 
-class invCard:
-  pass
-
-cardList = []
+cardList = {}
 
 tree = ET.parse('cards.xml')
 root = tree.getroot()
@@ -12,38 +9,50 @@ for subtree in root:
   if subtree.tag == "cards":
     i = 1
     for child in subtree:
-      card = invCard()
       i += 1
-      card.name = child.find('name').text
-      card.type = child.find('type').text
-      card.text = child.find('text').text
-      try:
-        card.cost = child.find('manacost').text
-      except:
-        card.cost = ""
+      name = child.find('name').text.lower()
+      type = child.find('type').text
 
       try:
-        card.color = child.find('color').text
+        text = child.find('text').text
       except:
-        card.color = "Colorless"
+        text = ""
 
       try:
-        card.pt = child.find('pt').text
+        cost = child.find('manacost').text
       except:
-        card.pt = ""
+        cost = ""
 
-      print card.name
-      print card.type
-      print card.cost
-      print card.color
-      print card.text
-      print card.pt
-      print ""
-      print ""
-for line in open('inventory.csv'):
-  
+      try:
+        color = child.find('color').text
+      except:
+        color = "Colorless"
+
+      try:
+        pt = child.find('pt').text
+      except:
+        pt = ""
+      try:
+        if "Land" in child.find('type').text:
+          cardList[name] = [type]
+        else:
+          cardList[name] = [type, cost, color, text, pt]
+      except TypeError:
+        print name
+
+f = open('updatedInventory.csv', 'w')
+inv = open('inventory.csv')
+inv.readline() #This eliminates the first line which contains the headers
+for line in inv:
   split = line.split(',')
-  #print "Count",split[0]
-  #print "Name",split[1]
-
+  count = split[0]
+  name = split[1]
+  if "Jor" in name:
+    name = "Jor Kadeen, the Prevailer"
+  try:
+    f.write(count + "," + name + ',' + ','.join(cardList[name.lower()]) + "\n")
+  except UnicodeEncodeError:
+    print "Unicode error",name
+  except TypeError:
+    print "Type error",name,cardList[name.lower()]
 
