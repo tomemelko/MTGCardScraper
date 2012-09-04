@@ -1,10 +1,9 @@
 import xml.etree.ElementTree as ET
 
 cardList = {}
-
+print "Importing XML..."
 tree = ET.parse('cards.xml')
 root = tree.getroot()
-print root.tag
 for subtree in root:
   if subtree.tag == "cards":
     i = 1
@@ -15,6 +14,8 @@ for subtree in root:
 
       try:
         text = child.find('text').text
+	if text == None:
+	  text = ""
       except:
         text = ""
 
@@ -38,8 +39,8 @@ for subtree in root:
         else:
           cardList[name] = [type, cost, color, text, pt]
       except TypeError:
-        print name
-
+        pass
+print "Reading inventory.csv..."
 f = open('updatedInventory.csv', 'w')
 inv = open('inventory.csv')
 inv.readline() #This eliminates the first line which contains the headers
@@ -48,11 +49,12 @@ for line in inv:
   count = split[0]
   name = split[1]
   if "Jor" in name:
-    name = "Jor Kadeen, the Prevailer"
+    name = "Jor Kadeen, the Prevailer" #He was having some problems, random quotations showing up
   try:
     f.write(count + "," + name + ',' + ','.join(cardList[name.lower()]) + "\n")
   except UnicodeEncodeError:
     print "Unicode error",name
   except TypeError:
     print "Type error",name,cardList[name.lower()]
-
+f.close()
+print "Complete"
