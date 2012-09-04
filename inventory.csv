@@ -1,0 +1,1639 @@
+Count,Name,Type,Cost
+1,Abundant Growth,Enchantment  - Aura,{G}
+1,Acid Web Spider,Creature  - Spider,{3}{G}{G}
+1,Adder-Staff Boggart,Creature  - Goblin Warrior,{1}{R}
+1,Advice from the Fae,Sorcery,{2U}{2U}{2U}
+1,Aerie Mystics,Creature  - Bird Wizard,{4}{W}
+4,Aerie Ouphes,Creature  - Ouphe,{4}{G}
+2,Aether Figment,Creature  - Illusion,{1}{U}
+1,Aether Spellbomb,Artifact,{1}
+1,Aetherplasm,Creature  - Illusion,{2}{U}{U}
+1,Afflict,Instant,{2}{B}
+1,Airdrop Condor,Creature  - Bird,{4}{R}
+1,Akki Avalanchers,Creature  - Goblin Warrior,{R}
+1,Akki Raider,Creature  - Goblin Warrior,{1}{R}
+1,Akoum Battlesinger,Creature  - Human Berserker Ally,{1}{R}
+1,Akrasan Squire,Creature  - Human Soldier,{W}
+1,Alaborn Trooper,Creature  - Human Soldier,{2}{W}
+1,Aladdin's Ring,Artifact,{8}
+1,Alluring Siren,Creature  - Siren,{1}{U}
+1,Amass the Components,Sorcery,{3}{U}
+4,Ambassador Oak,Creature  - Treefolk Warrior,{3}{G}
+1,Amoeboid Changeling,Creature  - Shapeshifter,{1}{U}
+1,An-Havva Inn,Sorcery,{1}{G}{G}
+2,Anaba Shaman,Creature  - Minotaur Shaman,{3}{R}
+1,Anarchist,Creature  - Human Wizard,{4}{R}
+1,Anathemancer,Creature  - Zombie Wizard,{1}{B}{R}
+1,Ancient Den,Artifact Land,
+2,Angel of Mercy,Creature  - Angel,{4}{W}
+2,Angel's Feather,Artifact,{2}
+1,Angel's Tomb,Artifact,{3}
+1,Angelfire Crusader,Creature  - Human Soldier Knight,{3}{W}
+1,Angelic Armaments,Artifact  - Equipment,{3}
+1,Angelic Renewal,Enchantment,{1}{W}
+2,Annul,Instant,{U}
+1,Antler Skulkin,Artifact Creature  - Scarecrow,{5}
+1,Apex Hawks,Creature  - Bird,{2}{W}
+1,Aphetto Runecaster,Creature  - Human Wizard,{3}{U}
+1,Arc Runner,Creature  - Elemental Ox,{2}{R}
+3,Arcane Spyglass,Artifact,{4}
+1,Arcbound Bruiser,Artifact Creature  - Golem,{5}
+1,Arcbound Lancer,Artifact Creature  - Beast,{7}
+1,Arcbound Stinger,Artifact Creature  - Insect,{2}
+1,Archmage Ascension,Enchantment,{2}{U}
+1,Arctic Foxes,Creature  - Fox,{1}{W}
+1,Argothian Swine,Creature  - Boar,{3}{G}
+1,Ark of Blight,Artifact,{2}
+4,Armor of Faith,Enchantment  - Aura,{W}
+1,Armored Warhorse,Creature  - Horse,{W}{W}
+1,Arrest,Enchantment  - Aura,{2}{W}
+2,Arrow Volley Trap,Instant  - Trap,{3}{W}{W}
+1,Arsenal Thresher,Artifact Creature  - Construct,{2}{WB}{U}
+1,Assassinate,Sorcery,{2}{B}
+2,Assault Griffin,Creature  - Griffin,{3}{W}
+2,Assault Strobe,Sorcery,{R}
+2,Atog,Creature  - Atog,{1}{R}
+1,Augur il-Vec,Creature  - Human Cleric,{1}{W}
+1,Aura Blast,Instant,{1}{W}
+1,Aura Fracture,Enchantment,{2}{W}
+4,Aura Graft,Instant,{1}{U}
+4,Auriok Glaivemaster,Creature  - Human Soldier,{W}
+3,Auriok Replica,Artifact Creature  - Cleric,{3}
+1,Auriok Siege Sled,Artifact Creature  - Juggernaut,{6}
+2,Auriok Transfixer,Creature  - Human Scout,{W}
+2,Avacyn's Pilgrim,Creature  - Human Monk,{G}
+2,Avacynian Priest,Creature  - Human Cleric,{1}{W}
+2,Aven Cloudchaser,Creature  - Bird Soldier,{3}{W}
+1,Aven Farseer,Creature  - Bird Soldier,{1}{W}
+2,Aven Fisher,Creature  - Bird Soldier,{3}{U}
+1,Aven Flock,Creature  - Bird Soldier,{4}{W}
+1,Aven Redeemer,Creature  - Bird Cleric,{3}{W}
+1,Awakener Druid,Creature  - Human Druid,{2}{G}
+2,Awe Strike,Instant,{W}
+1,Aysen Bureaucrats,Creature  - Human Advisor,{1}{W}
+1,Bala Ged Thief,Creature  - Human Rogue Ally,{3}{B}
+1,Balduvian Barbarians,Creature  - Human Barbarian,{1}{R}{R}
+2,Balduvian Conjurer,Creature  - Human Wizard,{1}{U}
+5,Balduvian Rage,Instant,{X}{R}
+1,Ballynock Cohort,Creature  - Kithkin Soldier,{2}{W}
+1,Ballynock Trapper,Creature  - Kithkin Soldier,{3}{W}
+1,Balshan Collaborator,Creature  - Bird Soldier,{3}{U}
+1,Banishing Knack,Instant,{U}
+2,Banishment Decree,Instant,{3}{W}{W}
+1,Banners Raised,Instant,{R}
+2,Bant Battlemage,Creature  - Human Wizard,{2}{W}
+1,Bant Panorama,Land,
+2,Bant Sureblade,Creature  - Human Soldier,{GU}{W}
+1,Barbed Battlegear,Artifact  - Equipment,{3}
+1,Barbed Lightning,Instant,{2}{R}
+2,Barkshell Blessing,Instant,{GW}
+1,Barrage Ogre,Creature  - Ogre Warrior,{3}{R}{R}
+1,Barrenton Medic,Creature  - Kithkin Cleric,{4}{W}
+2,Battering Ram,Artifact Creature  - Construct,{2}
+1,Battle Hymn,Instant,{1}{R}
+3,Battlefield Scrounger,Creature  - Centaur,{3}{G}{G}
+4,Battlegrowth,Instant,{G}
+1,Battlewise Aven,Creature  - Bird Soldier,{3}{W}
+1,Bazaar Trader,Creature  - Goblin,{1}{R}
+1,Beast Hunt,Sorcery,{3}{G}
+1,Beckon Apparition,Instant,{WB}
+1,Benalish Infantry,Creature  - Human Soldier,{2}{W}
+3,Benalish Knight,Creature  - Human Knight,{2}{W}
+1,Benalish Lancer,Creature  - Human Knight,{2}{W}
+2,Benalish Veteran,Creature  - Human Soldier,{2}{W}
+1,Benediction of Moons,Sorcery,{W}
+1,Benevolent Bodyguard,Creature  - Human Cleric,{W}
+1,Bereavement,Enchantment,{1}{B}
+1,Bestial Menace,Sorcery,{3}{G}{G}
+2,Big Game Hunter,Creature  - Human Rebel Assassin,{1}{B}{B}
+1,Birchlore Rangers,Creature  - Elf Druid,{G}
+3,Biting Tether,Enchantment  - Aura,{4}{U}
+1,Bitterheart Witch,Creature  - Human Shaman,{4}{B}
+2,Blackcleave Goblin,Creature  - Goblin Zombie,{3}{B}
+1,Blade of the Bloodchief,Artifact  - Equipment,{1}
+1,Bladed Bracers,Artifact  - Equipment,{1}
+2,Bladed Pinions,Artifact  - Equipment,{2}
+1,Blades of Velis Vel,Tribal Instant  - Shapeshifter,{1}{R}
+1,Blanket of Night,Enchantment,{1}{B}{B}
+1,Blaze,Sorcery,{X}{R}
+1,Blazethorn Scarecrow,Artifact Creature  - Scarecrow,{5}
+1,Blazing Torch,Artifact  - Equipment,{1}
+2,Bleak Coven Vampires,Creature  - Vampire Warrior,{3}{B}{B}
+1,Blessed Wine,Instant,{1}{W}
+3,Blight Mamba,Creature  - Snake,{1}{G}
+2,Blight Sickle,Artifact  - Equipment,{2}
+6,Blightsoil Druid,Creature  - Elf Druid,{1}{B}
+2,Blightwidow,Creature - Spider,{3}{G}
+1,Blind-Spot Giant,Creature  - Giant Warrior,{2}{R}
+2,Blinding Beam,Instant,{2}{W}
+1,Blistergrub,Creature  - Horror,{2}{B}
+2,Blistering Dieflyn,Creature  - Imp,{3}{R}
+2,Blisterstick Shaman,Creature - Goblin Shaman,{2}{R}
+1,Blood Artist,Creature  - Vampire,{1}{B}
+1,Blood Rites,Enchantment,{3}{R}{R}
+1,Bloodcrazed Goblin,Creature  - Goblin Berserker,{R}
+1,Bloodhusk Ritualist,Creature  - Vampire Shaman,{2}{B}
+2,Bloodpyre Elemental,Creature  - Elemental,{4}{R}
+2,Bloodrock Cyclops,Creature  - Cyclops,{2}{R}
+2,Bloodshot Trainee,Creature  - Goblin Warrior,{3}{R}
+1,Bloodthrone Vampire,Creature  - Vampire,{1}{B}
+1,Bog Gnarr,Creature  - Beast,{4}{G}
+2,Bog Wraith,Creature  - Wraith,{3}{B}
+1,Bog-Strider Ash,Creature  - Treefolk Shaman,{3}{G}
+2,Bogardan Firefiend,Creature  - Elemental Spirit,{2}{R}
+2,Bogardan Rager,Creature  - Elemental,{5}{R}
+1,Boggart Loggers,Creature  - Goblin Rogue,{2}{B}
+2,Bojuka Bog,Land,
+1,Bojuka Brigand,Creature  - Human Warrior Ally,{1}{B}
+2,Bold Defense,Instant,{2}{W}
+2,Bonds of Faith,Enchantment  - Aura,{1}{W}
+2,Bone Splinters,Sorcery,{B}
+1,Boneshard Slasher,Creature  - Horror,{1}{B}
+2,Bonesplitter,Artifact  - Equipment,{1}
+1,Border Patrol,Creature  - Human Nomad,{4}{W}
+1,Boreal Centaur,Snow Creature  - Centaur Warrior,{1}{G}
+1,Bouncing Beebles,Creature  - Beeble,{2}{U}
+2,Brain Gorgers,Creature  - Zombie,{3}{B}
+1,Bramble Elemental,Creature  - Elemental,{3}{G}{G}
+1,Bramblecrush,Sorcery,{2}{G}{G}
+1,Branching Bolt,Instant,{1}{R}{G}
+1,Brave the Elements,Instant,{W}
+1,Breath of Dreams,Enchantment,{2}{U}{U}
+1,Brindle Boar,Creature  - Boar,{2}{G}
+1,Brush with Death,Sorcery,{2}{B}
+1,Bull Hippo,Creature  - Hippo,{3}{G}
+2,Bull Rush,Instant,{R}
+1,Burden of Greed,Instant,{3}{B}
+4,Burrenton Bombardier,Creature  - Kithkin Soldier,{2}{W}
+2,Burrenton Shield-Bearers,Creature  - Kithkin Soldier,{4}{W}
+4,Butcher's Cleaver,Artifact  - Equipment,{3}
+1,Cabal Inquisitor,Creature  - Human Minion,{1}{B}
+1,Cabal Slaver,Creature  - Human Cleric,{2}{B}
+1,Cabal Torturer,Creature  - Human Minion,{1}{B}{B}
+4,Caller of Gales,Creature  - Merfolk Wizard,{U}
+1,Callow Jushi,Creature  - Human Wizard,{1}{U}{U}
+5,Cancel,Instant,{1}{U}{U}
+1,Canopy Cover,Enchantment  - Aura,{1}{G}
+2,Canopy Spider,Creature  - Spider,{1}{G}
+1,Capashen Knight,Creature  - Human Knight,{1}{W}
+1,Capashen Unicorn,Creature  - Unicorn,{1}{W}
+1,Carapace,Enchantment  - Aura,{G}
+1,Carapace Forger,Creature  - Elf Artificer,{1}{G}
+2,Caravan Hurda,Creature  - Giant,{4}{W}
+1,Careful Consideration,Instant,{2}{U}{U}
+1,Caregiver,Creature  - Human Cleric,{W}
+3,Carrion Howler,Creature  - Zombie Wolf,{3}{B}
+1,Carrion Rats,Creature  - Rat,{B}
+2,Carrion Thrash,Creature  - Viashino Warrior,{2}{B}{R}{G}
+1,Catalog,Instant,{2}{U}
+1,Cathars' Crusade,Enchantment,{3}{W}{W}
+1,Cathedral Sanctifier,Creature  - Human Cleric,{W}
+2,Cathodion,Artifact Creature  - Construct,{3}
+1,Caustic Crawler,Creature  - Insect,{3}{B}{B}
+1,Caustic Hound,Creature - Hound,{5}{B}
+1,Cavern Thoctar,Creature  - Beast,{5}{G}
+1,Ceaseless Searblades,Creature  - Elemental Warrior,{3}{R}
+1,Celestial Colonnade,Land,
+1,Celestial Purge,Instant,{1}{W}
+4,Cellar Door,Artifact,{2}
+1,Centaur Veteran,Creature  - Centaur,{5}{G}
+1,Cephalid Illusionist,Creature  - Cephalid Wizard,{1}{U}
+24,Cephalid Inkshrouder,Creature  - Cephalid,{2}{U}
+2,Cephalid Pathmage,Creature  - Cephalid Wizard,{2}{U}
+1,Cerulean Wisps,Instant,{U}
+1,Chain of Plasma,Instant,{1}{R}
+1,Chancellor of the Annex,Creature  - Angel,{4}{W}{W}{W}
+1,Chancellor of the Dross,Creature  - Vampire,{4}{B}{B}{B}
+2,Chancellor of the Tangle,Creature  - Beast,{4}{G}{G}{G}
+1,Chandra's Spitfire,Creature  - Elemental,{2}{R}
+2,Changeling Berserker,Creature  - Shapeshifter,{3}{R}
+1,Changeling Sentinel,Creature  - Shapeshifter,{3}{W}
+1,Chaoslace,Instant,{R}
+1,Chapel Geist,Creature  - Spirit,{1}{W}{W}
+1,Chartooth Cougar,Creature  - Cat Beast,{5}{R}
+1,Child of Night,Creature  - Vampire,{1}{B}
+1,Childhood Horror,Creature  - Horror,{3}{B}
+5,Chimney Imp,Creature  - Imp,{4}{B}
+1,Chittering Rats,Creature  - Rat,{1}{B}{B}
+1,Choke,Enchantment,{2}{G}
+1,Choking Tethers,Instant,{3}{U}
+3,Chromatic Sphere,Artifact,{1}
+2,Chrome Steed,Artifact Creature  - Horse,{4}
+2,Cinder Crawler,Creature  - Salamander,{1}{R}
+1,Cinder Wall,Creature  - Wall,{R}
+1,Circle of Protection: Artifacts,Enchantment,{1}{W}
+4,Circle of Protection: Black,Enchantment,{1}{W}
+3,Circle of Protection: Blue,Enchantment,{1}{W}
+3,Circle of Protection: Green,Enchantment,{1}{W}
+4,Circle of Protection: Red,Enchantment,{1}{W}
+4,Circle of Protection: White,Enchantment,{1}{W}
+1,Civic Guildmage,Creature  - Human Wizard,{W}
+2,Civic Wayfinder,Creature  - Elf Warrior Druid,{2}{G}
+1,Clairvoyance,Instant,{U}
+1,Claws of Gix,Artifact,{0}
+1,Clay Statue,Artifact Creature  - Golem,{4}
+1,Cleanfall,Sorcery  - Arcane,{2}{W}
+1,Cleansing Meditation,Sorcery,{1}{W}{W}
+1,Cliff Threader,Creature  - Kor Scout,{1}{W}
+3,Clockwork Beetle,Artifact Creature  - Insect,{1}
+1,Clockwork Condor,Artifact Creature  - Bird,{4}
+1,Cloistered Youth,Creature  - Human,{1}{W}
+1,Cloud Crusader,Creature  - Human Knight,{2}{W}{W}
+1,Cloud Sprite,Creature  - Faerie,{U}
+1,Cloudcrown Oak,Creature  - Treefolk Warrior,{2}{G}{G}
+2,Coal Stoker,Creature  - Elemental,{3}{R}
+1,Cobalt Golem,Artifact Creature  - Golem,{4}
+1,Cobbled Wings,Artifact  - Equipment,{2}
+2,Coercion,Sorcery,{2}{B}
+1,Coma Veil,Enchantment  - Aura,{4}{U}
+1,Commander's Authority,Enchantment  - Aura,{4}{W}
+2,Commune with Nature,Sorcery,{G}
+4,Conclave Equenaut,Creature  - Human Soldier,{4}{W}{W}
+1,Conclave's Blessing,Enchantment  - Aura,{3}{W}
+1,Condemn,Instant,{W}
+1,Cone of Flame,Sorcery,{3}{R}{R}
+1,Conjurer's Bauble,Artifact,{1}
+2,Conservator,Artifact,{4}
+1,Consume Spirit,Sorcery,{X}{1}{B}
+1,Consuming Bonfire,Tribal Sorcery  - Elemental,{3}{R}{R}
+3,Contaminated Bond,Enchantment  - Aura,{1}{B}
+1,Controlled Instincts,Enchantment  - Aura,{U}
+1,Conversion Chamber,Artifact,{3}
+1,Coordinated Barrage,Instant,{W}
+4,Copper Myr,Artifact Creature  - Myr,{2}
+1,Corrupt,Sorcery,{5}{B}
+1,Corrupted Zendikon,Enchantment  - Aura,{1}{B}
+1,Cosi's Ravager,Creature  - Elemental,{3}{R}
+1,Courier Hawk,Creature  - Bird,{1}{W}
+2,Courier's Capsule,Artifact,{1}{U}
+1,Court Archers,Creature  - Human Archer,{2}{G}
+1,Crash of Rhinos,Creature  - Rhino,{6}{G}{G}
+2,Craw Wurm,Creature  - Wurm,{4}{G}{G}
+3,Crazed Goblin,Creature  - Goblin Warrior,{R}
+1,Crippling Fatigue,Sorcery,{1}{B}{B}
+1,Crookclaw Transmuter,Creature  - Bird Wizard,{3}{U}
+1,Crossbow Ambush,Instant,{G}
+1,Crossbow Infantry,Creature  - Human Soldier Archer,{1}{W}
+1,Crossway Vampire,Creature  - Vampire,{1}{R}{R}
+1,Crumbling Colossus,Artifact Creature  - Golem,{5}
+3,Crushing Vines,Instant,{2}{G}
+1,Crypt of Agadeem,Land,
+1,Crypt Ripper,Creature  - Shade,{2}{B}{B}
+1,Crystal Rod,Artifact,{1}
+1,Culling Scales,Artifact,{3}
+1,Curse of Chains,Enchantment  - Aura,{1}{WU}
+1,Curse of the Nightly Hunt,Enchantment  - Aura Curse,{2}{R}
+1,Cursebreak,Instant,{1}{W}
+1,Cursed Ronin,Creature  - Human Samurai,{3}{B}
+1,Cyclopean Mummy,Creature  - Zombie,{1}{B}
+1,Cylian Elf,Creature  - Elf Scout,{1}{G}
+1,Darba,Creature  - Bird Beast,{3}{G}
+2,Darigaaz's Attendant,Artifact Creature  - Golem,{5}
+7,Dark Banishing,Instant,{2}{B}
+1,Dark Withering,Instant,{4}{B}{B}
+1,Darkslick Drake,Creature  - Drake,{2}{U}{U}
+2,Darksteel Brute,Artifact,{2}
+3,Darksteel Pendant,Artifact,{2}
+1,Darkthicket Wolf,Creature  - Wolf,{1}{G}
+1,Daru Healer,Creature  - Human Cleric,{2}{W}
+1,Daru Lancer,Creature  - Human Soldier,{4}{W}{W}
+1,Dauthi Slayer,Creature  - Dauthi Soldier,{B}{B}
+2,Dawnfluke,Creature  - Elemental,{3}{W}
+1,Dawnray Archer,Creature  - Human Archer,{2}{U}
+1,Dead Reckoning,Sorcery,{1}{B}{B}
+1,Deadly Grub,Creature  - Insect,{2}{B}
+1,Death Stroke,Sorcery,{B}{B}
+1,Death Ward,Instant,{W}
+1,Death Wind,Instant,{X}{B}
+1,Death's Shadow,Creature  - Avatar,{B}
+1,Deceiver Exarch,Creature  - Cleric,{2}{U}
+4,Deconstruct,Sorcery,{2}{G}
+1,Deeptread Merrow,Creature  - Merfolk Rogue,{1}{U}
+1,Deepwood Drummer,Creature  - Human Spellshaper,{1}{G}
+1,Deepwood Ghoul,Creature  - Zombie,{2}{B}
+1,Defender en-Vec,Creature  - Human Cleric,{3}{W}
+3,Deft Duelist,Creature  - Human Rogue,{W}{U}
+1,Defy Death,Sorcery,{3}{W}{W}
+1,Deglamer,Instant,{1}{G}
+2,Demolish,Sorcery,{3}{R}
+2,Demon's Horn,Artifact,{2}
+3,Demonmail Hauberk,Artifact  - Equipment,{4}
+4,Desecrated Earth,Sorcery,{4}{B}
+2,Desecrator Hag,Creature  - Hag,{2}{BG}{BG}
+1,Desert,Land  - Desert,
+1,Desert Twister,Sorcery,{4}{G}{G}
+1,Despise,Sorcery,{B}
+2,Detonate,Sorcery,{X}{R}
+1,Devoted Retainer,Creature  - Human Samurai,{W}
+1,Devour in Shadow,Instant,{B}{B}
+1,Devouring Greed,Sorcery  - Arcane,{2}{B}{B}
+1,Dewdrop Spy,Creature  - Faerie Rogue,{1}{U}{U}
+3,Disarm,Instant,{U}
+2,Disciple of Griselbrand,Creature  - Human Cleric,{1}{B}
+1,Disciple of Law,Creature  - Human Cleric,{1}{W}
+1,Disciple of the Vault,Creature  - Human Cleric,{B}
+1,Disenchant,Instant,{1}{W}
+1,Disentomb,Sorcery,{B}
+2,Disfigure,Instant,{B}
+1,Disintegrate,Sorcery,{X}{R}
+1,Dismantling Blow,Instant,{2}{W}
+1,Dispatch,Instant,{W}
+1,Dispersal Shield,Instant,{1}{U}
+3,Disperse,Instant,{1}{U}
+1,Distant Melody,Sorcery,{3}{U}
+2,Dive Bomber,Creature  - Bird Soldier,{3}{W}
+2,Divine Light,Sorcery,{W}
+2,Dragon's Claw,Artifact,{2}
+2,Drain the Well,Sorcery,{2}{BG}{BG}
+1,Dreadwaters,Sorcery,{3}{U}
+2,Dream Thief,Creature  - Faerie Rogue,{2}{U}
+1,Dream Thrush,Creature  - Bird,{1}{U}
+3,Dream Tides,Enchantment,{2}{U}{U}
+5,Dream's Grip,Instant,{U}
+3,Dreams of the Dead,Enchantment,{3}{U}
+1,Dreg Reaver,Creature  - Zombie Beast,{4}{B}
+1,Dregscape Zombie,Creature  - Zombie,{1}{B}
+1,Dripping Dead,Creature  - Zombie,{4}{B}{B}
+1,Driver of the Dead,Creature  - Vampire,{3}{B}
+1,Dromar's Attendant,Artifact Creature  - Golem,{5}
+2,Dross Hopper,Creature  - Insect Horror,{1}{B}
+3,Dross Prowler,Creature  - Zombie,{2}{B}
+3,Dross Scorpion,Artifact Creature  - Scorpion,{4}
+1,Dryad's Favor,Enchantment  - Aura,{G}
+2,Duergar Assailant,Creature  - Dwarf Soldier,{RW}
+1,Dusk Imp,Creature  - Imp,{2}{B}
+1,Duskrider Falcon,Creature  - Bird,{1}{W}
+1,Duskworker,Artifact Creature  - Construct,{4}
+1,Dwarven Catapult,Instant,{X}{R}
+6,Dwarven Warriors,Creature  - Dwarf Warrior,{2}{R}
+2,Earthbind,Enchantment  - Aura,{R}
+1,Earthbrawn,Instant,{1}{G}
+1,Earthlore,Enchantment  - Aura,{G}
+2,Ebon Drake,Creature  - Drake,{2}{B}
+1,Echo Circlet,Artifact  - Equipment,{2}
+1,Echo Tracer,Creature  - Human Wizard,{2}{U}
+2,Echoing Calm,Instant,{1}{W}
+2,Echoing Courage,Instant,{1}{G}
+1,Echoing Ruin,Sorcery,{1}{R}
+1,Ekundu Griffin,Creature  - Griffin,{3}{W}
+2,Elder Cathar,Creature  - Human Soldier,{2}{W}
+1,Elder of Laurels,Creature  - Human Advisor,{2}{G}
+3,Electrostatic Bolt,Instant,{R}
+4,Elf Replica,Artifact Creature  - Elf,{3}
+1,Elite Archers,Creature  - Human Soldier Archer,{5}{W}
+1,Elite Javelineer,Creature  - Human Soldier,{2}{W}
+1,Elven Cache,Sorcery,{2}{G}{G}
+1,Elven Lyre,Artifact,{2}
+1,Elvish Bard,Creature  - Elf Shaman,{3}{G}{G}
+2,Elvish Branchbender,Creature  - Elf Druid,{2}{G}
+2,Elvish Healer,Creature  - Elf Cleric,{2}{W}
+1,Elvish Visionary,Creature  - Elf Shaman,{1}{G}
+3,Elvish Warrior,Creature  - Elf Warrior,{G}{G}
+1,Embalmed Brawler,Creature  - Zombie,{2}{B}
+1,Ember Beast,Creature  - Beast,{2}{R}
+1,Ember Hauler,Creature  - Goblin,{R}{R}
+1,Emberwilde Augur,Creature  - Goblin Shaman,{1}{R}
+1,Emerald Oryx,Creature  - Antelope,{3}{G}
+3,Emissary of Despair,Creature  - Spirit,{1}{B}{B}
+1,Empty the Warrens,Sorcery,{3}{R}
+1,Enrage,Instant,{X}{R}
+1,Enslave,Enchantment  - Aura,{4}{B}{B}
+1,Entangling Trap,Enchantment,{1}{W}
+1,Entomber Exarch,Creature  - Cleric,{2}{B}{B}
+1,Entreat the Angels,Sorcery,{X}{X}{W}{W}{W}
+1,Erase,Instant,{W}
+1,Errand of Duty,Instant,{1}{W}
+2,Escape Routes,Enchantment,{2}{U}
+2,Esper Panorama,Land,
+2,Esper Sojourners,Artifact Creature  - Vedalken Wizard,{W}{U}{B}
+1,Essence Feed,Sorcery,{5}{B}
+1,Essence Filter,Sorcery,{1}{G}{G}
+1,Essence Harvest,Sorcery,{2}{B}
+1,Ethercaste Knight,Artifact Creature  - Human Knight,{W}{U}
+3,Etherium Sculptor,Artifact Creature  - Vedalken Artificer,{1}{U}
+1,Ethersworn Shieldmage,Artifact Creature  - Vedalken Wizard,{1}{W}{U}
+1,Evasive Action,Instant,{1}{U}
+1,Everbark Shaman,Creature  - Treefolk Shaman,{4}{G}
+1,Exclusion Ritual,Enchantment,{4}{W}{W}
+1,Excommunicate,Sorcery,{2}{W}
+1,Execute,Instant,{2}{B}
+3,Executioner's Capsule,Artifact,{B}
+3,Expedition Map,Artifact,{1}
+1,Explore,Sorcery,{1}{G}
+2,Explorer's Scope,Artifact  - Equipment,{1}
+1,Fa'adiyah Seer,Creature  - Human Shaman,{1}{G}
+1,Fabricate,Sorcery,{2}{U}
+1,Facevaulter,Creature  - Goblin Warrior,{B}
+2,Faerie Macabre,Creature  - Faerie Rogue,{1}{B}{B}
+1,Faerie Trickery,Tribal Instant  - Faerie,{1}{U}{U}
+1,Faith's Fetters,Enchantment  - Aura,{3}{W}
+1,Falkenrath Exterminator,Creature  - Vampire Archer,{1}{R}
+1,Falkenrath Marauders,Creature  - Vampire Warrior,{3}{R}{R}
+5,Falkenrath Noble,Creature  - Vampire,{3}{B}
+2,Fallow Earth,Sorcery,{2}{G}
+2,Fang Skulkin,Artifact Creature  - Scarecrow,{2}
+1,Fangren Hunter,Creature  - Beast,{3}{G}{G}
+1,Fangren Marauder,Creature - Beast,{5}{G}
+2,Farrel's Mantle,Enchantment  - Aura,{2}{W}
+1,Fatal Blow,Instant,{B}
+1,Fate Transfer,Instant,{1}{UB}
+4,Fathom Seer,Creature  - Illusion,{1}{U}
+1,Faultgrinder,Creature  - Elemental,{6}{R}
+1,Favor of the Overbeing,Enchantment  - Aura,{1}{GU}
+1,Favor of the Woods,Enchantment  - Aura,{2}{G}
+1,Favorable Destiny,Enchantment  - Aura,{1}{W}
+1,Favorable Winds,Enchantment,{1}{U}
+1,Fear,Enchantment  - Aura,{B}{B}
+1,Feast of the Unicorn,Enchantment  - Aura,{3}{B}
+1,Fellwar Stone,Artifact,{2}
+1,Femeref Knight,Creature  - Human Knight,{2}{W}
+1,Femeref Scouts,Creature  - Human Scout,{2}{W}
+4,Fencer Clique,Creature  - Faerie Soldier,{2}{U}{U}
+1,Fencer's Magemark,Enchantment  - Aura,{2}{R}
+1,Feral Lightning,Sorcery,{3}{R}{R}{R}
+1,Feral Shadow,Creature  - Nightstalker,{2}{B}
+1,Ferropede,Artifact Creature  - Insect,{3}
+1,Ferrovore,Creature  - Beast,{2}{R}
+1,Fertile Ground,Enchantment  - Aura,{1}{G}
+2,Fertilid,Creature  - Elemental,{2}{G}
+3,Festercreep,Creature  - Elemental,{1}{B}
+1,Fiend Hunter,Creature  - Human Cleric,{1}{W}{W}
+2,Fiery Hellhound,Creature  - Elemental Hound,{1}{R}{R}
+1,Final-Sting Faerie,Creature  - Faerie Assassin,{3}{B}
+1,Fire at Will,Instant,{RW}{RW}{RW}
+1,Fire Elemental,Creature  - Elemental,{3}{R}{R}
+1,Fire Servant,Creature  - Elemental,{3}{R}{R}
+2,Fireball,Sorcery,{X}{R}
+1,Fireblast,Instant,{4}{R}{R}
+1,Firebreathing,Enchantment  - Aura,{R}
+1,Fireslinger,Creature  - Human Wizard,{1}{R}
+1,Fists of Ironwood,Enchantment  - Aura,{1}{G}
+1,Fists of the Anvil,Instant,{1}{R}
+2,Flame Jab,Sorcery,{R}
+1,Flame Slash,Sorcery,{R}
+1,Flameborn Viron,Creature  - Insect,{4}{R}{R}
+3,Flamekin Brawler,Creature  - Elemental Warrior,{R}
+1,Flamekin Harbinger,Creature  - Elemental Shaman,{R}
+1,Flamestick Courier,Creature  - Goblin,{2}{R}
+2,Flashfires,Sorcery,{3}{R}
+1,Fledgling Griffin,Creature  - Griffin,{1}{W}
+2,Fleeting Distraction,Instant,{U}
+1,Fleshwrither,Creature  - Horror,{2}{B}{B}
+4,Fling,Instant,{1}{R}
+1,Floating-Dream Zubera,Creature  - Zubera Spirit,{1}{U}
+1,Floodchaser,Creature  - Elemental,{5}{U}
+1,Flowering Lumberknot,Creature  - Treefolk,{3}{G}
+1,Flowstone Strike,Instant,{1}{R}
+2,Flurry of Wings,Instant,{G}{W}{U}
+1,Fodder Cannon,Artifact,{4}
+1,Fog Elemental,Creature  - Elemental,{2}{U}
+1,Folk Medicine,Instant,{2}{G}
+1,Footbottom Feast,Instant,{2}{B}
+1,Foothill Guide,Creature  - Human Cleric,{W}
+3,Force Void,Instant,{2}{U}
+3,Foresee,Sorcery,{3}{U}
+2,Foreshadow,Instant,{1}{U}
+2,Forfend,Instant,{1}{W}
+1,Forgotten Cave,Land,
+1,Foul Imp,Creature  - Imp,{B}{B}
+1,Fractured Loyalty,Enchantment  - Aura,{1}{R}
+1,Frantic Salvage,Instant,{3}{W}
+1,Frazzle,Instant,{3}{U}
+1,Frenzy Sliver,Creature  - Sliver,{1}{B}
+1,Frightshroud Courier,Creature  - Zombie,{2}{B}
+2,Frogmite,Artifact Creature  - Frog,{4}
+1,Frost Ogre,Creature  - Ogre Warrior,{3}{R}{R}
+1,Fuel for the Cause,Instant,{2}{U}{U}
+1,Fulgent Distraction,Instant,{2}{W}
+1,Furnace Whelp,Creature  - Dragon,{2}{R}{R}
+1,Fylgja,Enchantment  - Aura,{W}
+1,Fyndhorn Brownie,Creature  - Ouphe,{2}{G}
+3,Gaea's Balance,Sorcery,{3}{G}
+2,Gallows Warden,Creature  - Spirit,{4}{W}
+1,Galvanic Alchemist,Creature  - Human Wizard,{2}{U}
+3,Galvanic Juggernaut,Artifact Creature  - Juggernaut,{4}
+5,Galvanic Key,Artifact,{2}
+1,Gang of Devils,Creature  - Devil,{5}{R}
+1,Garruk's Companion,Creature  - Beast,{G}{G}
+1,Garruk's Packleader,Creature  - Beast,{4}{G}
+1,Gaze of Pain,Sorcery,{1}{B}
+1,Geist Snatch,Instant,{2}{U}{U}
+1,Gelid Shackles,Snow Enchantment  - Aura,{W}
+1,Genesis Chamber,Artifact,{2}
+1,Geth's Grimoire,Artifact,{4}
+1,Geyser Glider,Creature  - Elemental Beast,{3}{R}{R}
+1,Ghalma's Warden,Creature  - Elephant Soldier,{3}{W}
+1,Ghost Tactician,Creature  - Spirit Spellshaper,{4}{W}
+1,Ghost Warden,Creature  - Spirit,{1}{W}
+2,Ghost-Lit Warder,Creature  - Spirit,{1}{U}
+1,Ghostfire,Instant,{2}{R}
+2,Ghostform,Sorcery,{1}{U}
+1,Ghostly Possession,Enchantment  - Aura,{2}{W}
+1,Giant Growth,Instant,{G}
+1,Giant Mantis,Creature  - Insect,{3}{G}
+2,Giant Scorpion,Creature  - Scorpion,{2}{B}
+1,Giant Slug,Creature  - Slug,{1}{B}
+1,Giant Spider,Creature  - Spider,{3}{G}
+1,Giant Strength,Enchantment  - Aura,{R}{R}
+1,Giant Warthog,Creature  - Boar Beast,{5}{G}
+2,Gift of the Deity,Enchantment  - Aura,{4}{BG}
+1,Gift of the Woods,Enchantment  - Aura,{G}
+2,Gilt-Leaf Ambush,Tribal Instant  - Elf,{2}{G}
+2,Gitaxian Probe,Sorcery,{UP}
+1,Glade Gnarr,Creature  - Beast,{5}{G}
+1,Glass Golem,Artifact Creature  - Golem,{5}
+1,Glassdust Hulk,Artifact Creature  - Golem,{3}{W}{U}
+1,Glasses of Urza,Artifact,{1}
+3,Glaze Fiend,Artifact Creature  - Illusion,{1}{B}
+1,Glimmering Angel,Creature  - Angel,{3}{W}
+1,Glint Hawk Idol,Artifact,{2}
+1,Glintwing Invoker,Creature  - Human Wizard Mutant,{4}{U}
+1,Gloomhunter,Creature  - Bat,{2}{B}
+1,Gluttonous Zombie,Creature  - Zombie,{4}{B}
+3,Gnarlid Pack,Creature  - Beast,{1}{G}
+2,Gnathosaur,Creature - Lizard,{4}{R}{R}
+4,Goblin Balloon Brigade,Creature  - Goblin Warrior,{R}
+1,Goblin Bomb,Enchantment,{1}{R}
+1,Goblin Brigand,Creature  - Goblin Warrior,{1}{R}
+1,Goblin Burrows,Land,
+5,Goblin Chariot,Creature  - Goblin Warrior,{2}{R}
+3,Goblin Deathraiders,Creature  - Goblin Warrior,{B}{R}
+1,Goblin Firebug,Creature  - Goblin,{1}{R}
+1,Goblin Fireslinger,Creature  - Goblin Warrior,{R}
+1,Goblin Gaveleer,Creature  - Goblin Warrior,{R}
+2,Goblin Glider,Creature  - Goblin,{1}{R}
+7,Goblin Raider,Creature  - Goblin Warrior,{1}{R}
+6,Goblin Replica,Artifact Creature  - Goblin,{3}
+1,Goblin Rock Sled,Creature  - Goblin,{1}{R}
+4,Goblin Roughrider,Creature  - Goblin Knight,{2}{R}
+1,Goblin Ruinblaster,Creature  - Goblin Shaman,{2}{R}
+1,Goblin Shortcutter,Creature  - Goblin Scout,{1}{R}
+1,Goblin Spelunkers,Creature  - Goblin Warrior,{2}{R}
+1,Goblin Striker,Creature  - Goblin Berserker,{1}{R}
+1,Goblin Tunneler,Creature  - Goblin Rogue,{1}{R}
+1,Goblin War Paint,Enchantment  - Aura,{1}{R}
+3,Goblin War Wagon,Artifact Creature  - Juggernaut,{4}
+1,Goblin Wardriver,Creature - Goblin Warrior,{R}{R}
+1,Godtoucher,Creature  - Elf Cleric,{3}{G}
+1,Godtracker of Jund,Creature  - Elf Shaman,{1}{R}{G}
+3,Gold Myr,Artifact Creature  - Myr,{2}
+1,Golden Urn,Artifact,{1}
+1,Goldenglow Moth,Creature  - Insect,{W}
+1,Goldmeadow Dodger,Creature  - Kithkin Rogue,{W}
+2,Goldmeadow Harrier,Creature  - Kithkin Soldier,{W}
+1,Gomazoa,Creature  - Jellyfish,{2}{U}
+2,Gorgon Recluse,Creature  - Gorgon,{3}{B}{B}
+1,Gorilla Berserkers,Creature  - Ape Berserker,{3}{G}{G}
+1,Gorilla Pack,Creature  - Ape,{2}{G}
+1,Grab the Reins,Instant,{3}{R}
+1,Graceful Reprieve,Instant,{1}{W}
+1,Granite Shard,Artifact,{3}
+3,Grappler Spider,Creature  - Spider,{1}{G}
+1,Grave Scrabbler,Creature  - Zombie,{3}{B}
+1,Gravebane Zombie,Creature  - Zombie,{3}{B}
+2,Gravedigger,Creature  - Zombie,{3}{B}
+1,Gravelgill Duo,Creature  - Merfolk Rogue Warrior,{2}{UB}
+7,Graveyard Shovel,Artifact,{2}
+1,Graypelt Hunter,Creature  - Human Warrior Ally,{3}{G}
+4,Grazing Gladehart,Creature  - Antelope,{2}{G}
+2,Grazing Kelpie,Creature  - Beast,{3}{GU}
+3,Great Furnace,Artifact Land,
+1,Greater Harvester,Creature  - Horror,{2}{B}{B}{B}
+1,Greel's Caress,Enchantment  - Aura,{1}{B}
+1,Green Sun's Zenith,Sorcery,{X}{G}
+1,Greenhilt Trainee,Creature  - Elf Warrior,{3}{G}
+15,Grifter's Blade,Artifact  - Equipment,{3}
+2,Grim Discovery,Sorcery,{1}{B}
+5,Grimclaw Bats,Creature  - Bat,{1}{B}
+2,Grinning Ignus,Creature  - Elemental,{2}{R}
+1,Grixis Charm,Instant,{U}{B}{R}
+1,Grixis Panorama,Land,
+1,Grizzly Bears,Creature  - Bear,{1}{G}
+3,Groffskithur,Creature  - Beast,{5}{G}
+2,Grotag Thrasher,Creature  - Lizard,{4}{R}
+1,Ground Rift,Sorcery,{R}
+1,Groundswell,Instant,{G}
+1,Gruesome Deformity,Enchantment  - Aura,{B}
+1,Gryff Vanguard,Creature  - Human Knight,{4}{U}
+1,Guardian Angel,Instant,{X}{W}
+2,Guardians of Akrasa,Creature  - Human Soldier,{2}{W}
+2,Guided Strike,Instant,{1}{W}
+5,Gustrider Exuberant,Creature  - Human Wizard,{2}{W}
+1,Gutwrencher Oni,Creature  - Demon Spirit,{3}{B}{B}
+5,Hagra Crocodile,Creature  - Crocodile,{3}{B}
+1,Hail Storm,Instant,{1}{G}{G}
+1,Halimar Excavator,Creature  - Human Wizard Ally,{1}{U}
+1,Halo Hunter,Creature  - Demon,{2}{B}{B}{B}
+2,Hamlet Captain,Creature  - Human Warrior,{1}{G}
+1,Hanweir Lancer,Creature  - Human Knight,{2}{R}
+2,Harbor Serpent,Creature  - Serpent,{4}{U}{U}
+1,Harrow,Instant,{2}{G}
+1,Hate Weaver,Creature  - Zombie Wizard,{1}{B}
+1,Haunted Cadaver,Creature  - Zombie,{3}{B}
+1,Headstone,Instant,{1}{B}
+1,Heal the Scars,Instant,{3}{G}
+1,Healing Salve,Instant,{W}
+1,Heartseeker,Artifact  - Equipment,{4}
+2,Heartstabber Mosquito,Creature  - Insect,{3}{B}
+1,Hedron Matrix,Artifact  - Equipment,{4}
+2,Hedron Scrabbler,Artifact Creature  - Construct,{2}
+2,Helionaut,Creature  - Human Soldier,{2}{W}
+1,Hellfire Mongrel,Creature  - Elemental Hound,{2}{R}
+1,Hellkite Hatchling,Creature  - Dragon,{2}{R}{G}
+5,Hematite Golem,Artifact Creature  - Golem,{4}
+1,Hex Parasite,Artifact Creature  - Insect,{1}
+2,Hideous End,Instant,{1}{B}{B}
+1,Highway Robber,Creature  - Human Rogue Mercenary,{2}{B}{B}
+2,Hill Giant,Creature  - Giant,{3}{R}
+1,Hillcomber Giant,Creature  - Giant Scout,{2}{W}{W}
+3,Hindering Light,Instant,{W}{U}
+1,Hinterland Harbor,Land,
+5,Hissing Iguanar,Creature  - Lizard,{2}{R}
+1,Hobgoblin Dragoon,Creature  - Goblin Knight,{2}{RW}
+3,Hollowhenge Beast,Creature  - Beast,{3}{G}{G}
+1,Holy Day,Instant,{W}
+2,Holy Strength,Enchantment  - Aura,{W}
+1,Homarid Warrior,Creature  - Homarid Warrior,{4}{U}
+1,Honor Guard,Creature  - Human Soldier,{W}
+1,Hooded Kavu,Creature  - Kavu,{2}{R}
+1,Horizon Spellbomb,Artifact,{1}
+1,Horned Troll,Creature  - Troll,{2}{G}
+1,Hornet Sting,Instant,{G}
+1,Horrifying Revelation,Sorcery,{B}
+1,Hostile Realm,Enchantment  - Aura,{2}{R}
+1,Hovermyr,Artifact Creature  - Myr,{2}
+1,Howling Banshee,Creature  - Spirit,{2}{B}{B}
+1,Hunger of the Nim,Sorcery,{1}{B}
+1,Hungry Mist,Creature  - Elemental,{2}{G}{G}
+2,Hungry Spriggan,Creature  - Goblin Warrior,{2}{G}
+2,Hunting Drake,Creature  - Drake,{4}{U}
+1,Hurly-Burly,Sorcery,{1}{R}
+1,Hurricane,Sorcery,{X}{G}
+5,Hydromorph Gull,Creature  - Elemental Bird,{3}{U}{U}
+1,Hypnox,Creature  - Nightmare Horror,{8}{B}{B}{B}
+1,Hysterical Blindness,Instant,{2}{U}
+2,Icatian Infantry,Creature  - Human Soldier,{W}
+2,Icatian Moneychanger,Creature  - Human,{W}
+2,Ice Cage,Enchantment  - Aura,{1}{U}
+1,Ichor Explosion,Sorcery,{5}{B}{B}
+2,Ichor Slick,Sorcery,{2}{B}
+2,Icy Manipulator,Artifact,{4}
+1,Identity Crisis,Sorcery,{2}{W}{W}{B}{B}
+1,Ignite Disorder,Instant,{1}{R}
+1,Ignite Memories,Sorcery,{4}{R}
+1,Illumination,Instant,{W}{W}
+1,Impaler Shrike,Creature  - Bird,{2}{U}{U}
+1,Impromptu Raid,Enchantment,{3}{RG}
+1,Incinerate,Instant,{1}{R}
+4,Incite War,Instant,{2}{R}
+2,Incurable Ogre,Creature  - Ogre Mutant,{3}{R}
+1,Indentured Oaf,Creature  - Ogre Warrior,{3}{R}
+1,Index,Sorcery,{U}
+3,Induce Despair,Instant,{2}{B}
+3,Inertia Bubble,Enchantment  - Aura,{1}{U}
+1,Infectious Host,Creature  - Zombie,{2}{B}
+1,Inferno Trap,Instant  - Trap,{3}{R}
+1,Infested Roothold,Creature  - Wall,{4}{G}
+2,Inflame,Instant,{R}
+1,Information Dealer,Creature  - Human Wizard,{1}{U}
+1,Inner-Flame Acolyte,Creature  - Elemental Shaman,{1}{R}{R}
+1,Inner-Flame Igniter,Creature  - Elemental Warrior,{2}{R}
+1,Inquisitor's Flail,Artifact  - Equipment,{2}
+1,Inquisitor's Snare,Instant,{1}{W}
+3,Inside Out,Instant,{1}{UR}
+1,Inspiration,Instant,{3}{U}
+1,Inspirit,Instant,{2}{W}
+1,Instill Infection,Instant,{3}{B}
+3,Into the Roil,Instant,{1}{U}
+1,Invigorating Falls,Sorcery,{2}{G}{G}
+1,Inviolability,Enchantment  - Aura,{1}{W}
+1,Invisibility,Enchantment  - Aura,{U}{U}
+1,Ior Ruin Expedition,Enchantment,{1}{U}
+5,Iron Myr,Artifact Creature  - Myr,{2}
+1,Iron Tusk Elephant,Creature  - Elephant,{4}{W}
+2,Ironfist Crusher,Creature  - Human Soldier,{4}{W}
+3,Irradiate,Instant,{3}{B}
+2,Jace's Ingenuity,Instant,{3}{U}{U}
+2,Jade Mage,Creature  - Human Shaman,{1}{G}
+4,Jagwasp Swarm,Creature  - Insect,{3}{B}
+1,Jamuraan Lion,Creature  - Cat,{2}{W}
+1,Jhoira's Timebug,Artifact Creature  - Insect,{2}
+1,Joint Assault,Instant,{G}
+1,Jolrael's Centaur,Creature  - Centaur Archer,{1}{G}{G}
+3,"Jor Kadeen, the Prevailer",Legendary Creature  - Human Warrior,{3}{R}{W}
+1,Joraga Bard,Creature  - Elf Rogue Ally,{3}{G}
+1,Joraga Warcaller,Creature  - Elf Warrior,{G}
+2,Journey of Discovery,Sorcery,{2}{G}
+1,Joven's Ferrets,Creature  - Ferret,{G}
+1,Judge of Currents,Creature  - Merfolk Wizard,{1}{W}
+4,Judge Unworthy,Instant,{1}{W}
+1,Jungle Weaver,Creature  - Spider,{5}{G}{G}
+2,Jungle Wurm,Creature  - Wurm,{3}{G}{G}
+1,Juniper Order Advocate,Creature  - Human Knight,{2}{W}
+4,Kabira Crossroads,Land,
+1,Kami of Tattered Shoji,Creature  - Spirit,{4}{W}
+1,Karstoderm,Creature  - Beast,{2}{G}{G}
+1,Kathari Screecher,Creature  - Bird Soldier,{2}{U}
+4,Kederekt Creeper,Creature  - Horror,{U}{B}{R}
+1,Keeneye Aven,Creature  - Bird Soldier,{3}{U}
+2,Keldon Halberdier,Creature  - Human Warrior,{4}{R}
+2,Kessig Recluse,Creature  - Spider,{2}{G}{G}
+1,Kiln Fiend,Creature  - Elemental Beast,{1}{R}
+1,Kindled Fury,Instant,{R}
+1,Kinsbaile Balloonist,Creature  - Kithkin Soldier,{3}{W}
+1,Kinscaer Harpoonist,Creature  - Kithkin Soldier,{3}{U}
+3,Kiri-Onna,Creature  - Spirit,{4}{U}
+1,Kiss of the Amesha,Sorcery,{4}{W}{U}
+1,Kithkin Daggerdare,Creature  - Kithkin Soldier,{1}{G}
+1,Kjeldoran Escort,Creature  - Human Soldier,{2}{W}{W}
+1,Kjeldoran Pride,Enchantment  - Aura,{1}{W}
+1,Kjeldoran Warrior,Creature  - Human Warrior,{W}
+1,Knight of Dusk,Creature  - Human Knight,{1}{B}{B}
+1,Knight of the Skyward Eye,Creature  - Human Knight,{1}{W}
+1,Kor Aeronaut,Creature  - Kor Soldier,{W}{W}
+1,Kor Cartographer,Creature  - Kor Scout,{3}{W}
+6,Kor Hookmaster,Creature  - Kor Soldier,{2}{W}
+1,Kor Line-Slinger,Creature  - Kor Scout,{1}{W}
+1,Kor Outfitter,Creature  - Kor Soldier,{W}{W}
+1,Kor Sanctifiers,Creature  - Kor Cleric,{2}{W}
+1,Kor Skyfisher,Creature  - Kor Soldier,{1}{W}
+2,Kraken Hatchling,Creature  - Kraken,{U}
+3,Kraken's Eye,Artifact,{2}
+1,Krark-Clan Grunt,Creature  - Goblin Warrior,{2}{R}
+7,Krark-Clan Shaman,Creature  - Goblin Shaman,{R}
+5,Krark-Clan Stoker,Creature  - Goblin Shaman,{2}{R}
+1,Krovikan Plague,Enchantment  - Aura,{2}{B}
+1,Krovikan Whispers,Enchantment  - Aura,{3}{U}
+1,Kuldotha Ringleader,Creature - Giant Berserker,{4}{R}
+4,Labyrinth Minotaur,Creature  - Minotaur,{3}{U}
+1,Laccolith Whelp,Creature  - Beast,{R}
+1,Lair Delve,Sorcery,{2}{G}
+1,Lairwatch Giant,Creature  - Giant Warrior,{5}{W}
+1,Lantern Spirit,Creature  - Spirit,{2}{U}
+1,Lashknife,Enchantment  - Aura,{1}{W}
+1,Lashwrithe,Artifact  - Equipment,{4}
+1,Latch Seeker,Creature  - Spirit,{1}{U}{U}
+1,Latchkey Faerie,Creature  - Faerie Rogue,{3}{U}
+1,Lava Axe,Sorcery,{4}{R}
+1,Lava Storm,Instant,{3}{R}{R}
+1,Lead Astray,Instant,{1}{W}
+9,Leaden Myr,Artifact Creature  - Myr,{2}
+1,Leaf Gilder,Creature  - Elf Druid,{1}{G}
+1,Leap of Faith,Instant,{2}{W}
+1,Leatherback Baloth,Creature  - Beast,{G}{G}{G}
+1,Leonin Battlemage,Creature  - Cat Wizard,{3}{W}
+3,Leonin Bola,Artifact  - Equipment,{1}
+6,Leonin Den-Guard,Creature  - Cat Soldier,{1}{W}
+2,Leonin Scimitar,Artifact  - Equipment,{1}
+1,Leshrac's Sigil,Enchantment,{B}{B}
+2,Lethargy Trap,Instant  - Trap,{3}{U}
+2,Levitation,Enchantment,{2}{U}{U}
+1,Liberate,Instant,{1}{W}
+1,Lich's Tomb,Artifact,{4}
+1,Life Burst,Instant,{1}{W}
+9,Lifespark Spellbomb,Artifact,{1}
+1,Lifetap,Enchantment,{U}{U}
+1,Lightkeeper of Emeria,Creature  - Angel,{3}{W}
+1,Lightning Axe,Instant,{R}
+1,Lightning Blast,Instant,{3}{R}
+2,Lightning Elemental,Creature  - Elemental,{3}{R}
+1,Lignify,Tribal Enchantment  - Treefolk Aura,{1}{G}
+1,Lilting Refrain,Enchantment,{1}{U}
+1,Lionheart Maverick,Creature  - Human Knight,{W}
+1,Living Armor,Artifact,{4}
+1,Living Destiny,Instant,{3}{G}
+1,Llanowar Elves,Creature  - Elf Druid,{G}
+2,Llanowar Vanguard,Creature  - Dryad,{2}{G}
+1,Loamdragger Giant,Creature  - Giant Warrior,{4}{RG}{RG}{RG}
+2,Loch Korrigan,Creature  - Spirit,{3}{B}
+1,Lone Revenant,Creature  - Spirit,{3}{U}{U}
+1,Lone Wolf,Creature  - Wolf,{2}{G}
+1,Lonely Sandbar,Land,
+1,Longbow Archer,Creature  - Human Soldier Archer,{W}{W}
+1,Looming Shade,Creature  - Shade,{2}{B}
+2,Lost in the Woods,Enchantment,{3}{G}{G}
+1,Lowland Giant,Creature  - Giant,{2}{R}{R}
+1,Lowland Tracker,Creature  - Human Soldier,{4}{W}
+1,Loxodon Mender,Creature  - Elephant Cleric,{5}{W}
+4,Loxodon Mystic,Creature  - Elephant Cleric,{3}{W}{W}
+1,Loxodon Warhammer,Artifact  - Equipment,{3}
+1,Loxodon Wayfarer,Creature  - Elephant Monk,{2}{W}
+8,Lumengrid Warden,Creature  - Human Wizard,{1}{U}
+1,Luminescent Rain,Instant,{2}{G}
+4,Lunk Errant,Creature  - Giant Warrior,{5}{R}
+1,Lure,Enchantment  - Aura,{1}{G}{G}
+2,Lush Growth,Enchantment  - Aura,{G}
+3,Lys Alana Bowmaster,Creature  - Elf Archer,{2}{G}
+1,Lys Alana Scarblade,Creature  - Elf Assassin,{2}{B}
+1,Macetail Hystrodon,Creature  - Beast,{6}{R}
+3,Machinate,Instant,{1}{U}{U}
+1,Madrush Cyclops,Creature  - Cyclops Warrior,{1}{B}{R}{G}
+1,Maelstrom Archangel,Creature  - Angel,{W}{U}{B}{R}{G}
+1,Magewright's Stone,Artifact,{2}
+2,Magma Rift,Sorcery,{2}{R}
+1,Magma Spray,Instant,{R}
+2,Make a Wish,Sorcery,{3}{G}
+1,Manacles of Decay,Enchantment  - Aura,{1}{W}
+1,Manaplasm,Creature  - Ooze,{2}{G}
+1,Manic Vandal,Creature  - Human Warrior,{2}{R}
+1,Manor Skeleton,Creature  - Skeleton,{1}{B}
+2,Marble Chalice,Artifact,{2}{W}
+1,Maritime Guard,Creature  - Merfolk Soldier,{1}{U}
+1,Mark of Mutiny,Sorcery,{2}{R}
+2,Markov Patrician,Creature  - Vampire,{2}{B}
+1,Marsh Casualties,Sorcery,{B}{B}
+1,Martyrdom,Instant,{1}{W}{W}
+3,Mask of Avacyn,Artifact  - Equipment,{2}
+2,Mask of Law and Grace,Enchantment  - Aura,{W}
+1,Mask of Memory,Artifact  - Equipment,{2}
+1,Master Decoy,Creature  - Human Soldier,{1}{W}
+1,Master's Call,Instant,{2}{W}
+3,Mausoleum Guard,Creature  - Human Scout,{3}{W}
+1,Mausoleum Turnkey,Creature  - Ogre Rogue,{3}{B}
+1,Melt Terrain,Sorcery,{2}{R}{R}
+1,Memnite,Artifact Creature  - Construct,{0}
+1,Memory Lapse,Instant,{1}{U}
+1,Mental Agony,Sorcery,{3}{B}
+1,Mentor of the Meek,Creature  - Human Soldier,{2}{W}
+2,Merchant of Secrets,Creature  - Human Wizard,{2}{U}
+2,Merfolk Seastalkers,Creature  - Merfolk Scout,{3}{U}
+1,Merfolk Wayfinder,Creature  - Merfolk Scout,{2}{U}
+1,Merrow Bonegnawer,Creature  - Merfolk Rogue,{B}
+1,Merrow Levitator,Creature  - Merfolk Wizard,{3}{U}
+1,Merrow Witsniper,Creature  - Merfolk Rogue,{U}
+1,Mesa Falcon,Creature  - Bird,{1}{W}
+2,Mesmeric Fiend,Creature  - Nightmare Horror,{1}{B}
+1,Metal Fatigue,Instant,{2}{W}
+1,Metallurgeon,Artifact Creature  - Human Artificer,{1}{W}
+1,Metathran Transport,Creature  - Metathran,{1}{U}{U}
+1,Midnight Covenant,Enchantment  - Aura,{1}{B}
+1,Midnight Haunting,Instant,{2}{W}
+2,Mighty Leap,Instant,{1}{W}
+3,Mind Control,Enchantment  - Aura,{3}{U}{U}
+6,Mind Rot,Sorcery,{2}{B}
+1,Mind Slash,Enchantment,{1}{B}{B}
+1,Mind Sludge,Sorcery,{4}{B}
+1,Mind Swords,Sorcery,{1}{B}
+3,Mindlash Sliver,Creature  - Sliver,{B}
+1,Mindstorm Crown,Artifact,{3}
+6,Mire Blight,Enchantment  - Aura,{B}
+1,Mirran Mettle,Instant,{G}
+2,Mirran Spy,Creature - Drone,{2}{U}
+1,Misguided Rage,Sorcery,{2}{R}
+1,Mistform Dreamer,Creature  - Illusion,{2}{U}
+1,Mistform Seaswift,Creature  - Illusion,{3}{U}
+1,Mistform Sliver,Creature  - Illusion Sliver,{1}{U}
+2,Mitotic Manipulation,Sorcery,{1}{U}{U}
+2,Mold Shambler,Creature  - Fungus Beast,{3}{G}
+12,Molten Rain,Sorcery,{1}{R}{R}
+2,Molten Ravager,Creature  - Elemental,{2}{R}
+1,Mons's Goblin Raiders,Creature  - Goblin,{R}
+3,Monstrify,Sorcery,{3}{G}
+1,Monstrous Growth,Sorcery,{1}{G}
+3,Moonglove Changeling,Creature  - Shapeshifter,{2}{B}
+1,Moonglove Extract,Artifact,{3}
+1,Moonglove Winnower,Creature  - Elf Rogue,{3}{B}
+1,Moonwing Moth,Creature  - Insect,{1}{W}{W}
+1,Moorland Inquisitor,Creature  - Human Soldier,{1}{W}
+1,Morale,Instant,{1}{W}{W}
+3,Morbid Plunder,Sorcery,{1}{B}{B}
+1,Moriok Replica,Artifact Creature  - Warrior,{3}
+3,Moriok Scavenger,Creature  - Human Rogue,{3}{B}
+2,Morsel Theft,Tribal Sorcery  - Rogue,{2}{B}{B}
+1,Mortis Dogs,Creature  - Hound,{3}{B}
+1,Mosquito Guard,Creature  - Kithkin Soldier,{W}
+1,Mosstodon,Creature  - Plant Elephant,{4}{G}
+2,Mothdust Changeling,Creature  - Shapeshifter,{U}
+400,Mountain,Basic Land  - Mountain,
+2,Mournwhelk,Creature  - Elemental,{6}{B}
+2,Mtenda Lion,Creature  - Cat,{G}
+2,Muck Drubb,Creature  - Beast,{3}{B}{B}
+2,Mudbutton Clanger,Creature  - Goblin Warrior,{R}
+2,Murder of Crows,Creature  - Bird,{3}{U}{U}
+1,Murderous Spoils,Instant,{5}{B}
+2,Mycosynth Wellspring,Artifact,{2}
+2,Myr Adapter,Artifact Creature  - Myr,{3}
+1,Myr Landshaper,Artifact Creature  - Myr,{3}
+2,Myr Moonvessel,Artifact Creature  - Myr,{1}
+2,Myr Quadropod,Artifact Creature  - Myr,{4}
+1,Myr Servitor,Artifact Creature  - Myr,{1}
+1,Myrsmith,Creature  - Human Artificer,{1}{W}
+2,Mystic Zealot,Creature  - Human Nomad Mystic,{3}{W}
+1,Nacatl Hunt-Pride,Creature  - Cat Warrior,{5}{W}
+1,Nantuko Calmer,Creature  - Insect Druid,{2}{G}{G}
+2,Nantuko Tracer,Creature  - Insect Druid,{1}{G}
+1,Narrow Escape,Instant,{2}{W}
+1,Nath's Buffoon,Creature  - Goblin Rogue,{1}{B}
+2,Nath's Elite,Creature  - Elf Warrior,{4}{G}
+1,Natural End,Instant,{2}{G}
+1,Natural Spring,Sorcery,{3}{G}{G}
+4,Naturalize,Instant,{1}{G}
+1,Naya Battlemage,Creature  - Human Shaman,{2}{G}
+1,Naya Panorama,Land,
+1,Necrobite,Instant,{2}{B}
+1,Necrogen Censer,Artifact,{3}
+1,Necrogen Scudder,Creature  - Horror,{2}{B}
+3,Necrogen Spellbomb,Artifact,{1}
+1,Necropouncer,Artifact  - Equipment,{6}
+1,Nemesis Mask,Artifact  - Equipment,{3}
+4,Nettle Sentinel,Creature  - Elf Warrior,{G}
+2,Nettle Swine,Creature  - Boar,{3}{G}
+1,Neurok Commando,Creature - Human Rogue,{1}{U}{U}
+4,Neurok Familiar,Creature  - Bird,{1}{U}
+3,Neurok Hoversail,Artifact  - Equipment,{1}
+2,Neurok Invisimancer,Creature  - Human Wizard,{1}{U}{U}
+1,Neurok Prodigy,Creature  - Human Wizard,{2}{U}
+1,Neurok Spy,Creature  - Human Rogue,{2}{U}
+2,Neurok Transmuter,Creature  - Human Wizard,{2}{U}
+1,Night Revelers,Creature  - Vampire,{4}{R}
+2,Nightguard Patrol,Creature  - Human Soldier,{2}{W}
+1,Nighthaze,Sorcery,{B}
+1,Nightscape Apprentice,Creature  - Zombie Wizard,{B}
+2,Nightshade Assassin,Creature  - Human Assassin,{2}{B}{B}
+1,Nightshade Stinger,Creature  - Faerie Rogue,{B}
+1,Nightsky Mimic,Creature  - Shapeshifter,{1}{WB}
+4,Nim Lasher,Creature  - Zombie,{2}{B}
+5,Nim Replica,Artifact Creature  - Zombie,{3}
+5,Nim Shrieker,Creature  - Zombie,{3}{B}
+1,Nimana Sell-Sword,Creature  - Human Warrior Ally,{3}{B}
+3,Nimbus Wings,Enchantment  - Aura,{1}{W}
+1,Nip Gwyllion,Creature  - Hag,{WB}
+2,Nissa's Chosen,Creature  - Elf Warrior,{G}{G}
+1,Niveous Wisps,Instant,{W}
+2,Noggle Bandit,Creature  - Noggle Rogue,{1}{UR}{UR}
+1,Noggle Bridgebreaker,Creature  - Noggle Rogue,{2}{UR}{UR}
+1,Norwood Ranger,Creature  - Elf Scout,{G}
+1,Nova Chaser,Creature  - Elemental Warrior,{3}{R}
+1,Null Champion,Creature  - Zombie Warrior,{1}{B}
+1,Nullmage Advocate,Creature  - Insect Druid,{2}{G}
+1,Numai Outcast,Creature  - Human Samurai,{3}{B}
+2,Obelisk of Bant,Artifact,{3}
+2,Obelisk of Esper,Artifact,{3}
+2,Obelisk of Grixis,Artifact,{3}
+5,Obelisk of Jund,Artifact,{3}
+3,Obelisk of Naya,Artifact,{3}
+2,Oboro Envoy,Creature  - Moonfolk Wizard,{3}{U}
+1,Obsessive Search,Instant,{U}
+1,Oculus,Creature - Homunculus,{1}{U}
+2,Odious Trow,Creature  - Troll,{BG}
+1,Offering to Asha,Instant,{2}{W}{U}
+2,Ogre Leadfoot,Creature  - Ogre,{4}{R}
+1,Ogre Recluse,Creature  - Ogre Warrior,{3}{R}
+2,Ogre Resister,Creature - Ogre,{2}{R}{R}
+1,Ogre Taskmaster,Creature  - Ogre,{3}{R}
+3,Omega Myr,Artifact Creature  - Myr,{2}
+1,Ondu Giant,Creature  - Giant Druid,{3}{G}
+2,Onyx Goblet,Artifact,{2}{B}
+3,Oran-Rief Recluse,Creature  - Spider,{2}{G}
+4,Order of the Golden Cricket,Creature  - Kithkin Knight,{1}{W}
+2,Orim's Prayer,Enchantment,{1}{W}{W}
+1,Orim's Thunder,Instant,{2}{W}
+1,Orim's Touch,Instant,{W}
+1,Orochi Eggwatcher,Legendary Creature - Snake Shaman,{2}{G}
+1,Oust,Sorcery,{W}
+5,Outrider of Jhess,Creature  - Human Knight,{3}{U}
+1,Outwit,Instant,{U}
+2,Overblaze,Instant  - Arcane,{3}{R}
+1,Overgrown Battlement,Creature  - Wall,{1}{G}
+4,Override,Instant,{2}{U}
+1,Ovinomancer,Creature  - Human Wizard,{2}{U}
+1,Oxidda Daredevil,Creature  - Goblin Artificer,{1}{R}
+2,Oxidda Golem,Artifact Creature  - Golem,{6}
+10,Pacifism,Enchantment  - Aura,{1}{W}
+1,Pack's Disdain,Instant,{1}{B}
+2,Panic Attack,Sorcery,{2}{R}
+1,Paragon of the Amesha,Creature  - Human Knight,{2}{W}
+4,Paralyzing Grasp,Enchantment  - Aura,{2}{U}
+3,Paraselene,Sorcery,{2}{W}
+1,Pardic Dragon,Creature  - Dragon,{4}{R}{R}
+1,Peel from Reality,Instant,{1}{U}
+1,Pentarch Ward,Enchantment  - Aura,{2}{W}
+1,Peppersmoke,Tribal Instant  - Faerie,{B}
+2,Perilous Myr,Artifact Creature  - Myr,{2}
+1,Perish the Thought,Sorcery,{2}{B}
+2,Pestilence,Enchantment,{2}{B}{B}
+4,Pewter Golem,Artifact Creature  - Golem,{5}
+2,Phantasmagorian,Creature  - Horror,{5}{B}{B}
+1,Phantom Beast,Creature  - Illusion Beast,{3}{U}
+1,Phantom Nomad,Creature  - Spirit Nomad,{1}{W}
+1,Phantom Warrior,Creature  - Illusion Warrior,{1}{U}{U}
+3,Phyrexian Hulk,Artifact Creature  - Golem,{6}
+1,Phyrexian Hydra,Creature - Hydra,{3}{G}{G}
+2,Phyrexian Rager,Creature  - Horror,{2}{B}
+2,Pilgrim of Justice,Creature  - Human Cleric,{2}{W}
+2,Pilgrim's Eye,Artifact Creature  - Thopter,{3}
+1,Pillar of Flame,Sorcery,{R}
+2,Pillarfield Ox,Creature  - Ox,{3}{W}
+1,Pincher Beetles,Creature  - Insect,{2}{G}
+1,Piranha Marsh,Land,
+1,Pith Driller,Artifact Creature  - Horror,{4}{BP}
+1,Plague Stinger,Creature  - Insect Horror,{1}{B}
+9,Plasma Elemental,Creature  - Elemental,{5}{U}
+1,Plated Geopede,Creature  - Insect,{1}{R}
+1,Plated Seastrider,Creature  - Beast,{U}{U}
+1,Plover Knights,Creature  - Kithkin Knight,{3}{W}{W}
+1,Plummet,Instant,{1}{G}
+2,Poison the Well,Sorcery,{2}{BR}{BR}
+1,Pollen Remedy,Instant,{W}
+2,Ponder,Sorcery,{U}
+1,Power Armor,Artifact,{4}
+2,Power Sink,Instant,{X}{U}
+1,Predator's Strike,Instant,{1}{G}
+1,Preordain,Sorcery,{U}
+1,Prickly Boggart,Creature  - Goblin Rogue,{B}
+1,Pride Guardian,Creature  - Cat Monk,{W}
+1,Primeval Shambler,Creature  - Horror Mercenary,{4}{B}
+3,Prismatic Circle,Enchantment,{2}{W}
+1,Prison Barricade,Creature  - Wall,{1}{W}
+4,Prodigal Pyromancer,Creature  - Human Wizard,{2}{R}
+1,Prohibit,Instant,{1}{U}
+1,Prophetic Prism,Artifact,{2}
+4,Protective Bubble,Enchantment  - Aura,{3}{U}
+1,Proteus Staff,Artifact,{3}
+1,Psychic Venom,Enchantment  - Aura,{1}{U}
+2,Pteron Ghost,Creature  - Spirit,{1}{W}
+5,Pulling Teeth,Sorcery,{1}{B}
+1,Pulse Tracker,Creature  - Vampire Rogue,{B}
+2,Put Away,Instant,{2}{U}{U}
+1,Putrefax,Creature  - Horror,{3}{G}{G}
+1,Putrid Warrior,Creature  - Zombie Soldier Warrior,{W}{B}
+7,Pyrite Spellbomb,Artifact,{1}
+2,Quag Sickness,Enchantment  - Aura,{2}{B}
+3,Quag Vampires,Creature  - Vampire Rogue,{B}
+1,Quest for Renewal,Enchantment,{1}{G}
+1,Quest for the Gemblades,Enchantment,{1}{G}
+1,Quest for the Goblin Lord,Enchantment,{R}
+5,Quest for the Holy Relic,Enchantment,{W}
+2,Quicksilver Behemoth,Creature  - Beast,{6}{U}
+7,Quicksilver Geyser,Instant,{4}{U}
+2,Quill-Slinger Boggart,Creature  - Goblin Warrior,{3}{B}
+1,Quirion Elves,Creature  - Elf Druid,{1}{G}
+1,Qumulox,Creature  - Beast,{6}{U}{U}
+5,Raging Goblin,Creature  - Goblin Berserker,{R}
+2,Raging Poltergeist,Creature  - Spirit,{4}{R}
+1,Rain of Blades,Instant,{W}
+2,Raise Dead,Sorcery,{B}
+3,Raise the Alarm,Instant,{1}{W}
+1,Rakdos Signet,Artifact,{2}
+3,Rakeclaw Gargantuan,Creature  - Beast,{2}{R}{G}{W}
+2,Rakish Heir,Creature  - Vampire,{2}{R}
+4,Rally the Forces,Instant,{2}{R}
+1,Ramosian Sergeant,Creature  - Human Rebel,{W}
+6,Rampant Growth,Sorcery,{1}{G}
+1,Rampart Crawler,Creature  - Lizard Mercenary,{B}
+2,Ransack,Sorcery,{3}{U}
+1,Rapacious One,Creature  - Eldrazi Drone,{5}{R}
+1,Rattleblaze Scarecrow,Artifact Creature  - Scarecrow,{6}
+2,Raven's Crime,Sorcery,{B}
+1,Ray of Command,Instant,{3}{U}
+1,Ray of Erasure,Instant,{U}
+2,Razor Barrier,Instant,{1}{W}
+1,Razor Golem,Artifact Creature  - Golem,{6}
+2,Razorfield Rhino,Artifact Creature - Rhino,{6}
+1,Razorfoot Griffin,Creature  - Griffin,{3}{W}
+1,Razorgrass Screen,Artifact Creature  - Wall,{1}
+2,Reap and Sow,Sorcery,{3}{G}
+1,Rebuking Ceremony,Sorcery,{3}{G}{G}
+1,Reckless Scholar,Creature  - Human Wizard,{2}{U}
+2,Reckless Wurm,Creature  - Wurm,{3}{R}{R}
+1,Recollect,Sorcery,{2}{G}
+1,Recumbent Bliss,Enchantment  - Aura,{2}{W}
+1,Reflexes,Enchantment  - Aura,{R}
+1,Regeneration,Enchantment  - Aura,{1}{G}
+1,Regress,Instant,{2}{U}
+1,Reinforcements,Instant,{W}
+1,Reins of the Vinesteed,Enchantment  - Aura,{3}{G}
+1,Rejuvenate,Sorcery,{3}{G}
+1,Relic Crush,Instant,{4}{G}
+1,Remove Soul,Instant,{1}{U}
+1,Rend Spirit,Instant,{2}{B}
+2,Rendclaw Trow,Creature  - Troll,{2}{BG}
+2,Resounding Roar,Instant,{1}{G}
+5,Resounding Scream,Sorcery,{2}{B}
+1,Resounding Thunder,Instant,{2}{R}
+6,Resounding Wave,Instant,{2}{U}
+4,Return to Dust,Instant,{2}{W}{W}
+1,Revered Elder,Creature  - Human Cleric,{2}{W}
+2,Revered Unicorn,Creature  - Unicorn,{1}{W}
+2,Reviving Dose,Instant,{2}{W}
+1,Revoke Existence,Sorcery,{1}{W}
+1,Riddlesmith,Creature  - Human Artificer,{1}{U}
+2,Ridge Rannet,Creature  - Beast,{5}{R}{R}
+1,Ridged Kusite,Creature  - Horror Spellshaper,{B}
+1,Rift Elemental,Creature  - Elemental,{R}
+1,Righteous Blow,Instant,{W}
+2,Rimewind Cryomancer,Creature  - Human Wizard,{3}{U}
+1,Riot Ringleader,Creature  - Human Warrior,{2}{R}
+2,Rip-Clan Crasher,Creature  - Human Warrior,{R}{G}
+1,Riptide Survivor,Creature  - Human Wizard,{2}{U}
+1,Rise from the Grave,Sorcery,{4}{B}
+1,Rite of Consumption,Sorcery,{1}{B}
+1,Rites of Flourishing,Enchantment,{2}{G}
+1,Rites of Initiation,Instant,{R}
+2,Rith's Attendant,Artifact Creature  - Golem,{5}
+1,Riverfall Mimic,Creature  - Shapeshifter,{1}{UR}
+1,Roar of the Crowd,Sorcery,{3}{R}
+1,Rock Jockey,Creature  - Goblin,{2}{R}
+1,Rockshard Elemental,Creature  - Elemental,{5}{R}{R}
+1,Rod of Ruin,Artifact,{4}
+1,Rolling Temblor,Sorcery,{2}{R}
+2,Root Spider,Creature  - Spider,{3}{G}
+1,Rootgrapple,Tribal Instant  - Treefolk,{4}{G}
+3,Roots,Enchantment  - Aura,{3}{G}
+1,Roots of Life,Enchantment,{1}{G}{G}
+2,Rootwalla,Creature  - Lizard,{2}{G}
+1,Rot Wolf,Creature - Wolf,{2}{G}
+1,Rotting Fensnake,Creature  - Zombie Snake,{3}{B}
+1,Rotting Legion,Creature  - Zombie,{4}{B}
+1,Royal Herbalist,Creature  - Human Cleric,{W}
+2,Ruinous Minotaur,Creature  - Minotaur Warrior,{1}{R}{R}
+1,Rule of Law,Enchantment,{2}{W}
+1,Rune of Protection: Black,Enchantment,{1}{W}
+1,Rune of Protection: Green,Enchantment,{1}{W}
+2,Rune-Cervin Rider,Creature  - Elf Knight,{3}{W}
+1,Runeclaw Bear,Creature  - Bear,{1}{G}
+1,Runes of the Deus,Enchantment  - Aura,{4}{RG}
+1,Runic Repetition,Sorcery,{2}{U}
+1,Rush of Blood,Instant,{2}{R}
+1,Rushwood Dryad,Creature  - Dryad,{1}{G}
+2,Rust Tick,Artifact Creature  - Insect,{3}
+1,Rustmouth Ogre,Creature  - Ogre,{4}{R}{R}
+1,Ruthless Cullblade,Creature  - Vampire Warrior,{1}{B}
+1,Saberclaw Golem,Artifact Creature  - Golem,{5}
+5,Sacred Nectar,Sorcery,{1}{W}
+1,Sacrifice,Instant,{B}
+1,Safehold Elite,Creature  - Elf Scout,{1}{GW}
+1,Sage of Epityr,Creature  - Human Wizard,{U}
+1,Sakura-Tribe Springcaller,Creature  - Snake Shaman,{3}{G}
+1,Samite Alchemist,Creature  - Human Cleric,{3}{W}
+3,Sanctum Gargoyle,Artifact Creature  - Gargoyle,{3}{W}
+2,Sandskin,Enchantment  - Aura,{2}{W}
+1,Sandstorm,Instant,{G}
+2,Sapphire Charm,Instant,{U}
+1,Savage Silhouette,Enchantment  - Aura,{2}{G}
+1,Sawtooth Thresher,Artifact Creature  - Construct,{6}
+4,Scale of Chiss-Goria,Artifact,{3}
+4,Scaled Hulk,Creature  - Spirit,{5}{G}
+1,Scarred Vinebreeder,Creature  - Elf Shaman,{1}{B}
+1,Scavenging Ghoul,Creature  - Zombie,{3}{B}
+1,Scavenging Scarab,Creature  - Insect,{3}{B}
+1,Scent of Cinder,Sorcery,{1}{R}
+1,Scoria Elemental,Creature  - Elemental,{4}{R}
+1,Scourge Devil,Creature  - Devil,{4}{R}
+4,Scourge of Geier Reach,Creature  - Elemental,{3}{R}{R}
+1,Scourge of the Nobilis,Enchantment  - Aura,{2}{RW}
+1,Scourge Servant,Creature - Zombie,{4}{B}
+1,Scrapbasket,Artifact Creature  - Scarecrow,{4}
+3,Scrapdiver Serpent,Creature  - Serpent,{5}{U}{U}
+2,Screaming Fury,Sorcery,{2}{R}
+1,Screaming Seahawk,Creature  - Bird,{4}{U}
+1,Screeching Griffin,Creature  - Griffin,{3}{W}
+3,Screeching Silcaw,Creature  - Bird,{1}{U}
+1,Scrib Nibblers,Creature  - Rat,{2}{B}
+1,Scrivener,Creature  - Human Wizard,{4}{U}
+1,Scrounge,Sorcery,{2}{B}
+1,Scuzzback Marauders,Creature  - Goblin Warrior,{4}{RG}
+2,Scuzzback Scrapper,Creature  - Goblin Warrior,{RG}
+2,Scythe Tiger,Creature  - Cat,{G}
+1,Sea Snidd,Creature  - Beast,{4}{U}
+1,Sea Spirit,Creature  - Elemental Spirit,{4}{U}
+5,Sea Troll,Creature  - Troll,{2}{U}
+1,Seafloor Debris,Land,
+1,Searing Rays,Sorcery,{2}{R}
+2,Second Thoughts,Instant,{4}{W}
+1,Seedling Charm,Instant,{G}
+1,Seer's Sundial,Artifact,{4}
+1,Seething Pathblazer,Creature  - Elemental Warrior,{2}{R}
+1,Seismic Shudder,Instant,{1}{R}
+1,Seize the Initiative,Instant,{W}
+1,Sejiri Refuge,Land,
+1,Sejiri Steppe,Land,
+2,Selfless Cathar,Creature  - Human Cleric,{W}
+1,Sengir Vampire,Creature  - Vampire,{3}{B}{B}
+1,Sentinels of Glen Elendra,Creature  - Faerie Soldier,{3}{U}
+2,Seraph of Dawn,Creature  - Angel,{2}{W}{W}
+1,Serene Heart,Instant,{1}{G}
+1,Serpent Warrior,Creature  - Snake Warrior,{2}{B}
+3,Serra Angel,Creature  - Angel,{3}{W}{W}
+1,Serra Inquisitors,Creature  - Human Cleric,{4}{W}
+2,Serra's Embrace,Enchantment  - Aura,{2}{W}{W}
+1,Serum Raker,Creature - Drake,{2}{U}{U}
+1,Shackles,Enchantment  - Aura,{2}{W}
+1,Shadow Rider,Creature  - Zombie Knight,{2}{B}{B}
+1,Shadowbane,Instant,{1}{W}
+1,Shaleskin Plower,Creature  - Beast,{3}{R}
+2,Shambling Strider,Creature  - Yeti,{4}{G}{G}
+2,Shape Stealer,Creature  - Shapeshifter Spirit,{U}{U}
+1,Sharpened Pitchfork,Artifact  - Equipment,{2}
+5,Shatter,Instant,{1}{R}
+1,Shattered Dreams,Sorcery,{B}
+1,Shatterskull Giant,Creature  - Giant Warrior,{2}{R}{R}
+1,Shield of Duty and Reason,Enchantment  - Aura,{W}
+1,Shieldmate's Blessing,Instant,{W}
+1,Shields of Velis Vel,Tribal Instant  - Shapeshifter,{W}
+1,Shifting Borders,Instant  - Arcane,{3}{U}
+3,Shimmering Glasskite,Creature  - Spirit,{3}{U}
+1,Shimmering Grotto,Land,
+1,Shimmering Wings,Enchantment  - Aura,{U}
+1,Shinewend,Creature  - Elemental,{1}{W}
+3,Shinka Gatekeeper,Creature  - Ogre Warrior,{2}{R}
+1,Shiv's Embrace,Enchantment  - Aura,{2}{R}{R}
+2,Shoal Serpent,Creature  - Serpent,{5}{U}
+1,Shock Troops,Creature  - Human Soldier,{3}{R}
+1,Shore Snapper,Creature  - Beast,{2}{B}
+3,Shorecrasher Mimic,Creature  - Shapeshifter,{1}{GU}
+1,Shoreline Raider,Creature  - Merfolk,{2}{U}
+2,Shoreline Salvager,Creature  - Surrakar,{3}{B}
+1,Shrine of Burning Rage,Artifact,{2}
+1,Shrink,Instant,{G}
+1,Sideswipe,Instant,{1}{R}
+1,Sighted-Caste Sorcerer,Creature  - Human Wizard,{1}{W}
+3,Sigil Blessing,Instant,{G}{W}
+1,Sign in Blood,Sorcery,{B}{B}
+1,Signal Pest,Artifact Creature - Pest,{1}
+1,Silent Departure,Sorcery,{U}
+3,Silver Myr,Artifact Creature  - Myr,{2}
+1,Silver-Inlaid Dagger,Artifact  - Equipment,{1}
+1,Silvercoat Lion,Creature  - Cat,{1}{W}
+1,Silvergill Douser,Creature  - Merfolk Wizard,{1}{U}
+1,Silverskin Armor,Artifact - Equipment,{2}
+1,Simic Guildmage,Creature  - Elf Wizard,{GU}{GU}
+1,Simic Ragworm,Creature  - Worm,{3}{G}
+2,Sinking Feeling,Enchantment  - Aura,{2}{U}
+1,Sisay's Ingenuity,Enchantment  - Aura,{U}
+2,Skaab Goliath,Creature  - Zombie Giant,{5}{U}
+1,Skeletal Grimace,Enchantment  - Aura,{1}{B}
+1,Skeletal Kathari,Creature  - Bird Skeleton,{4}{B}
+1,Skill Borrower,Artifact Creature  - Human Wizard,{2}{U}
+1,Skinrender,Creature  - Zombie,{2}{B}{B}
+1,Skirk Outrider,Creature  - Goblin,{3}{R}
+5,Skirsdag Cultist,Creature  - Human Shaman,{2}{R}{R}
+1,Skitter of Lizards,Creature  - Lizard,{R}
+2,Skullclamp,Artifact  - Equipment,{1}
+2,Skullmane Baku,Creature  - Spirit,{3}{B}{B}
+1,Sky Diamond,Artifact,{2}
+1,Sky Ruin Drake,Creature  - Drake,{4}{U}
+2,Sky Weaver,Creature  - Metathran Wizard,{1}{U}
+1,Skyhunter Cub,Creature  - Cat Knight,{2}{W}
+5,Skyhunter Patrol,Creature  - Cat Knight,{2}{W}{W}
+3,Skyrider Trainee,Creature  - Human Soldier,{4}{W}
+1,Skyshroud Archer,Creature  - Elf Archer,{G}
+1,Skywing Aven,Creature  - Bird Soldier,{2}{U}
+1,Slagwurm Armor,Artifact  - Equipment,{1}
+1,Slaughter Cry,Instant,{2}{R}
+1,Slayer of the Wicked,Creature  - Human Soldier,{3}{W}
+1,Sleep,Sorcery,{2}{U}{U}
+2,Sleeping Potion,Enchantment  - Aura,{1}{U}
+3,Slinking Giant,Creature  - Giant Rogue,{2}{R}{R}
+1,Slinking Serpent,Creature  - Serpent,{2}{U}{B}
+1,Slippery Bogle,Creature  - Beast,{GU}
+1,Slipstream Serpent,Creature  - Serpent,{7}{U}
+2,Smash to Smithereens,Instant,{1}{R}
+2,Smite the Monstrous,Instant,{3}{W}
+3,Smokebraider,Creature  - Elemental Shaman,{1}{R}
+1,Smokespew Invoker,Creature  - Zombie Mutant,{2}{B}
+1,Snakeform,Instant,{2}{GU}
+2,Snapping Creeper,Creature  - Plant,{2}{G}
+1,Snapsail Glider,Artifact Creature  - Construct,{3}
+1,Snare the Skies,Instant,{G}
+2,Snarling Undorak,Creature  - Beast,{2}{G}{G}
+1,Soldevi Adnate,Creature  - Human Cleric,{1}{B}
+5,Soldevi Machinist,Creature  - Human Wizard Artificer,{1}{U}
+4,Soldier Replica,Artifact Creature  - Soldier,{3}
+1,Solfatara,Instant,{2}{R}
+1,Solidarity,Instant,{3}{W}
+2,Somber Hoverguard,Creature  - Drone,{5}{U}
+1,Somberwald Vigilante,Creature  - Human Warrior,{R}
+1,Soothing Balm,Instant,{1}{W}
+1,Sootstoke Kindler,Creature  - Elemental Shaman,{1}{BR}
+1,Soratami Mindsweeper,Creature  - Moonfolk Wizard,{3}{U}
+1,Soratami Savant,Creature  - Moonfolk Wizard,{2}{U}{U}
+1,Sorcerer's Strongbox,Artifact,{4}
+1,Soul Barrier,Enchantment,{2}{U}
+1,Soul Charmer,Creature  - Human Rebel,{2}{W}
+1,Soul Conduit,Artifact,{6}
+1,Soul Parry,Instant,{1}{W}
+1,Soul's Attendant,Creature  - Human Cleric,{W}
+1,Soul's Grace,Instant,{1}{W}
+1,Soul's Might,Sorcery,{4}{G}
+3,Soulbright Flamekin,Creature  - Elemental Shaman,{1}{R}
+1,Soulcage Fiend,Creature  - Demon,{1}{B}{B}
+1,Soultether Golem,Artifact Creature  - Golem,{2}
+1,Spare from Evil,Instant,{1}{W}
+1,Sparksmith,Creature  - Goblin,{1}{R}
+1,Specter's Shroud,Artifact  - Equipment,{2}
+3,Spectral Rider,Creature  - Spirit Knight,{W}{W}
+1,Spell Blast,Instant,{X}{U}
+1,Spell Crumple,Instant,{1}{U}{U}
+2,Spell Snip,Instant,{2}{U}
+1,Spell Syphon,Instant,{1}{U}
+5,Sphere of Purity,Enchantment,{3}{W}
+3,Sphinx of Lost Truths,Creature  - Sphinx,{3}{U}{U}
+1,Spider Climb,Enchantment  - Aura,{G}
+2,Spider Spawning,Sorcery,{4}{G}
+5,Spidersilk Net,Artifact  - Equipment,{0}
+5,Spikeshot Goblin,Creature  - Goblin Shaman,{2}{R}
+1,Spin Engine,Artifact Creature - Construct,{3}
+2,Spined Wurm,Creature  - Wurm,{4}{G}
+1,Spiraling Embers,Sorcery  - Arcane,{3}{R}
+1,Spire Barrage,Sorcery,{4}{R}
+4,Spire Golem,Artifact Creature  - Golem,{6}
+1,Spire Serpent,Creature - Serpent,{4}{U}
+1,Spirit Away,Enchantment  - Aura,{5}{U}{U}
+11,Spiteflame Witch,Creature  - Elemental Shaman,{1}{BR}
+2,Spitting Earth,Sorcery,{1}{R}
+2,Spitting Spider,Creature  - Spider,{3}{G}{G}
+1,Splinter,Sorcery,{2}{G}{G}
+1,Splitting Headache,Sorcery,{3}{B}
+1,Sporoloth Ancient,Creature  - Fungus,{3}{G}{G}
+1,Spotted Griffin,Creature  - Griffin,{3}{W}
+1,Spread the Sickness,Sorcery,{4}{B}
+1,Spreading Seas,Enchantment  - Aura,{1}{U}
+1,Spring Cleaning,Instant,{1}{G}
+2,Springleaf Drum,Artifact,{1}
+1,Squeaking Pie Grubfellows,Creature  - Goblin Shaman,{3}{B}
+1,Squelch,Instant,{1}{U}
+1,Squirming Mass,Creature  - Horror,{1}{B}
+1,Stalking Stones,Land,
+1,Stalking Tiger,Creature  - Cat,{3}{G}
+1,Stampeding Rhino,Creature  - Rhino,{4}{G}
+1,Stampeding Wildebeests,Creature  - Antelope Beast,{2}{G}{G}
+1,Standing Troops,Creature  - Human Soldier,{2}{W}
+1,Stasis Cocoon,Enchantment  - Aura,{1}{W}
+1,Steal Artifact,Enchantment  - Aura,{2}{U}{U}
+1,Steamcore Weird,Creature  - Weird,{3}{U}
+2,Steel Wall,Artifact Creature  - Wall,{1}
+1,Steelclad Serpent,Artifact Creature  - Serpent,{5}{U}
+1,Steppe Lynx,Creature  - Cat,{W}
+2,Steward of Valeron,Creature  - Human Druid Knight,{G}{W}
+2,Stingmoggie,Creature  - Elemental,{3}{R}
+2,Stinkdrinker Daredevil,Creature  - Goblin Rogue,{2}{R}
+1,Stitched Drake,Creature  - Zombie Drake,{1}{U}{U}
+1,Stoic Rebuttal,Instant,{1}{U}{U}
+1,Stone Rain,Sorcery,{2}{R}
+1,Stonehorn Dignitary,Creature - Rhino Soldier,{3}{W}
+1,Stonewood Invoker,Creature  - Elf Mutant,{1}{G}
+3,Stonework Puma,Artifact Creature  - Cat Ally,{3}
+1,Stonybrook Angler,Creature  - Merfolk Wizard,{1}{U}
+1,Stonybrook Banneret,Creature  - Merfolk Wizard,{1}{U}
+1,Stonybrook Schoolmaster,Creature  - Merfolk Wizard,{2}{W}
+1,Storm Elemental,Creature  - Elemental,{5}{U}
+1,Storm Shaman,Creature  - Human Cleric Shaman,{2}{R}
+2,Stormfront Pegasus,Creature  - Pegasus,{1}{W}
+1,Stormscape Apprentice,Creature  - Human Wizard,{U}
+1,Stormscape Familiar,Creature  - Bird,{1}{U}
+1,Stratozeppelid,Creature  - Beast,{4}{U}
+1,Straw Golem,Artifact Creature  - Golem,{1}
+1,Stream Hopper,Creature  - Goblin,{UR}
+2,Stream of Life,Sorcery,{X}{G}
+2,Stream of Unconsciousness,Tribal Instant  - Wizard,{U}
+1,Strider Harness,Artifact  - Equipment,{3}
+1,Stromkirk Patrol,Creature  - Vampire Soldier,{4}{B}
+2,Stupefying Touch,Enchantment  - Aura,{1}{U}
+1,Sudden Strength,Instant,{3}{G}
+2,Sunbeam Spellbomb,Artifact,{1}
+1,Sundering Vitae,Instant,{2}{G}
+1,Sunflare Shaman,Creature  - Elemental Shaman,{1}{R}
+1,Sunseed Nurturer,Creature  - Human Druid Wizard,{2}{W}
+2,Sunspear Shikari,Creature  - Cat Soldier,{1}{W}
+4,Sunspring Expedition,Enchantment,{W}
+1,Suntail Hawk,Creature  - Bird,{W}
+1,Surestrike Trident,Artifact  - Equipment,{2}
+2,Surge of Thoughtweft,Tribal Instant  - Kithkin,{1}{W}
+4,Surrakar Marauder,Creature  - Surrakar,{1}{B}
+1,Swallowing Plague,Sorcery  - Arcane,{X}{B}{B}
+20,Swamp,Basic Land  - Swamp,
+1,Sylvok Lifestaff,Artifact  - Equipment,{1}
+1,Tainted Strike,Instant,{B}
+2,Tajuru Archer,Creature  - Elf Archer Ally,{2}{G}
+1,Takeno's Cavalry,Creature  - Human Samurai Archer,{3}{W}
+2,Talara's Bane,Sorcery,{1}{B}
+1,Talisman of Indulgence,Artifact,{2}
+1,Talisman of Progress,Artifact,{2}
+1,Talisman of Unity,Artifact,{2}
+1,Talon of Pain,Artifact,{4}
+1,Tangle Hulk,Artifact Creature - Beast,{5}
+4,Tanglebloom,Artifact,{1}
+1,Tar Fiend,Creature  - Elemental,{5}{B}
+1,Tar Pit Warrior,Creature  - Cyclops Warrior,{2}{B}
+2,Taste of Paradise,Sorcery,{3}{G}
+1,Tawnos's Wand,Artifact,{4}
+2,Tectonic Rift,Sorcery,{3}{R}
+1,Teetering Peaks,Land,
+1,Teferi's Curse,Enchantment  - Aura,{1}{U}
+6,Tel-Jilad Archers,Creature  - Elf Archer,{4}{G}
+1,Tel-Jilad Chosen,Creature  - Elf Warrior,{1}{G}
+5,Tel-Jilad Exile,Creature  - Troll Warrior,{3}{G}
+1,Tel-Jilad Fallen,Creature  - Elf Warrior,{2}{G}{G}
+2,Tel-Jilad Outrider,Creature  - Elf Warrior,{3}{G}
+5,Tel-Jilad Wolf,Creature  - Wolf,{2}{G}
+2,Tempest of Light,Instant,{2}{W}
+1,Tempest Owl,Creature  - Bird,{1}{U}
+1,Temple of the False God,Land,
+1,Temporary Insanity,Instant,{3}{R}
+1,Tendrils of Corruption,Instant,{3}{B}
+1,Terminus,Sorcery,{4}{W}{W}
+1,Terrain Generator,Land,
+1,Territorial Baloth,Creature  - Beast,{4}{G}
+7,Terror,Instant,{1}{B}
+2,Thermal Glider,Creature  - Human Rebel,{2}{W}
+1,Thick-Skinned Goblin,Creature  - Goblin Shaman,{1}{R}
+3,Thieving Sprite,Creature  - Faerie Rogue,{2}{B}
+1,Thorn Thallid,Creature  - Fungus,{1}{G}{G}
+3,Thorn-Thrash Viashino,Creature  - Viashino Warrior,{3}{R}
+1,Thornwatch Scarecrow,Artifact Creature  - Scarecrow,{6}
+2,Thraben Purebloods,Creature  - Hound,{4}{W}
+1,Threaten,Sorcery,{2}{R}
+2,Throne of Bone,Artifact,{1}
+1,Thundercloud Elemental,Creature  - Elemental,{5}{U}{U}
+8,Thunderheads,Instant,{2}{U}
+2,Thundering Giant,Creature  - Giant,{3}{R}{R}
+1,Thunderstaff,Artifact,{3}
+1,Tidal Visionary,Creature  - Merfolk Wizard,{U}
+2,Tideshaper Mystic,Creature  - Merfolk Wizard,{U}
+1,Tidewalker,Creature  - Elemental,{2}{U}
+1,Tilling Treefolk,Creature  - Treefolk Druid,{2}{G}
+1,Timberland Guide,Creature  - Human Scout,{1}{G}
+1,Time and Tide,Instant,{U}{U}
+3,Titanic Growth,Instant,{1}{G}
+1,Titanium Golem,Artifact Creature  - Golem,{5}
+1,To Arms!,Instant,{1}{W}
+1,Toils of Night and Day,Instant  - Arcane,{2}{U}
+1,Tooth of Chiss-Goria,Artifact,{3}
+1,Torch Slinger,Creature  - Goblin Shaman,{2}{R}
+1,Tormented Angel,Creature  - Angel,{3}{W}
+2,Tormentor Exarch,Creature  - Cleric,{3}{R}
+4,Tortoise Formation,Instant,{3}{U}
+1,Torture,Enchantment  - Aura,{B}
+1,Tower Drake,Creature  - Drake,{2}{U}
+1,Tower of Calamities,Artifact,{4}
+1,Tragic Slip,Instant,{B}
+1,Trailblazer's Boots,Artifact  - Equipment,{2}
+2,Trained Armodon,Creature  - Elephant,{1}{G}{G}
+5,Training Drone,Artifact Creature - Drone,{3}
+1,Tranquil Domain,Instant,{1}{G}
+1,Tranquil Path,Sorcery,{4}{G}
+1,Transluminant,Creature  - Dryad Shaman,{1}{G}
+2,Trapfinder's Trick,Sorcery,{1}{U}
+3,Trapjaw Kelpie,Creature  - Beast,{4}{GU}{GU}
+1,Traveler's Amulet,Artifact,{1}
+1,Treacherous Urge,Instant,{4}{B}
+1,Treasure Mage,Creature - Human Wizard,{2}{U}
+3,Trespasser il-Vec,Creature  - Human Rogue,{2}{B}
+1,Trial // Error,Instant,{U}{B}
+1,Trickery Charm,Instant,{U}
+1,Triclopean Sight,Enchantment  - Aura,{1}{W}
+1,Trigon of Infestation,Artifact,{4}
+2,Trigon of Mending,Artifact,{2}
+2,Trigon of Rage,Artifact,{2}
+1,Trigon of Thought,Artifact,{5}
+1,Trinisphere,Artifact,{3}
+1,Triumph of Cruelty,Enchantment,{2}{B}
+1,Tsunami,Sorcery,{3}{G}
+1,Tundra Wolves,Creature  - Wolf,{W}
+1,Turn Aside,Instant,{U}
+1,Turn the Tide,Instant,{1}{U}
+1,Turntimber Grove,Land,
+1,Twiddle,Instant,{U}
+1,Twisted Experiment,Enchantment  - Aura,{1}{B}
+2,Uktabi Faerie,Creature  - Faerie,{1}{G}
+2,Umara Raptor,Creature  - Bird Ally,{2}{U}
+1,Umbra Stalker,Creature  - Elemental,{4}{B}{B}{B}
+2,Uncanny Speed,Instant,{1}{R}
+1,Uncle Istvan,Creature  - Human,{1}{B}{B}{B}
+3,Uncontrolled Infestation,Enchantment  - Aura,{1}{R}
+2,Undead Leotau,Creature  - Zombie Cat,{5}{B}
+2,Undead Slayer,Creature  - Human Cleric,{2}{W}
+1,Undergrowth,Instant,{G}
+3,Undertaker,Creature  - Human Spellshaper,{1}{B}
+1,Undying Rage,Enchantment  - Aura,{2}{R}
+5,Unforge,Instant,{2}{R}
+1,Unlikely Alliance,Enchantment,{1}{W}
+2,Unruly Mob,Creature  - Human,{1}{W}
+3,Unstable Footing,Instant,{R}
+1,Unstable Mutation,Enchantment  - Aura,{U}
+3,Unsummon,Instant,{U}
+1,Untamed Wilds,Sorcery,{2}{G}
+1,Unyaro Bee Sting,Sorcery,{3}{G}
+5,Updraft,Instant,{1}{U}
+1,Urborg Uprising,Sorcery,{4}{B}
+5,Vacuumelt,Sorcery,{2}{U}
+1,Valeron Outlander,Creature  - Human Scout,{G}{W}
+1,Vampire Aristocrat,Creature  - Vampire Rogue,{2}{B}
+1,Vampire Hexmage,Creature  - Vampire Shaman,{B}{B}
+3,Vampire Lacerator,Creature  - Vampire Warrior,{B}
+2,Vanishment,Instant,{4}{U}
+3,Vault of Whispers,Artifact Land,
+2,Vault Skirge,Artifact Creature  - Imp,{1}{BP}
+2,Vectis Silencers,Artifact Creature  - Human Rogue,{2}{U}
+1,Vedalken Certarch,Creature  - Vedalken Wizard,{U}
+3,Vedalken Engineer,Creature  - Vedalken Artificer,{1}{U}
+1,Vedalken Heretic,Creature  - Vedalken Rogue,{G}{U}
+1,Vedalken Infuser,Creature - Vedalken Wizard,{3}{U}
+1,Vedalken Mastermind,Creature  - Vedalken Wizard,{U}{U}
+1,Vedalken Plotter,Creature  - Vedalken Wizard,{2}{U}
+2,Venerable Monk,Creature  - Human Monk Cleric,{2}{W}
+3,Vertigo Spawn,Creature  - Illusion,{1}{U}
+1,Veteran Armorsmith,Creature  - Human Soldier,{W}{W}
+2,Veteran's Reflexes,Instant,{W}
+1,Veteran's Voice,Enchantment  - Aura,{R}
+1,Vexing Devil,Creature  - Devil,{R}
+1,Viashino Sandscout,Creature  - Viashino Scout,{1}{R}
+4,Viashino Skeleton,Creature  - Viashino Skeleton,{3}{R}
+1,Vicious Hunger,Sorcery,{B}{B}
+1,Vigilante Justice,Enchantment,{3}{R}
+1,Village Cannibals,Creature  - Human,{2}{B}
+1,Village Elder,Creature  - Human Druid,{G}
+1,Vine Trellis,Creature  - Plant Wall,{1}{G}
+1,Violent Ultimatum,Sorcery,{B}{B}{R}{R}{R}{G}{G}
+4,Viridian Acolyte,Creature  - Elf Shaman,{G}
+1,Viridian Corrupter,Creature - Elf Shaman,{1}{G}{G}
+1,Viridian Emissary,Creature - Elf Scout,{1}{G}
+6,Viridian Joiner,Creature  - Elf Druid,{2}{G}
+1,Viridian Longbow,Artifact  - Equipment,{1}
+2,Viscera Dragger,Creature  - Zombie Ogre Warrior,{3}{B}
+1,Vitality Charm,Instant,{G}
+1,Vitalize,Instant,{G}
+4,Vithian Stinger,Creature  - Human Shaman,{2}{R}
+1,Vivisection,Sorcery,{3}{U}
+1,Vodalian Hypnotist,Creature  - Merfolk Wizard,{1}{U}
+1,Vodalian Mage,Creature  - Merfolk Wizard,{2}{U}
+1,Vodalian Merchant,Creature  - Merfolk,{1}{U}
+1,Vodalian Serpent,Creature  - Serpent,{3}{U}
+1,Voice of the Provinces,Creature  - Angel,{4}{W}{W}
+1,Volcanic Awakening,Sorcery,{4}{R}{R}
+1,Volcanic Strength,Enchantment  - Aura,{1}{R}
+2,Volcanic Submersion,Sorcery,{4}{R}
+1,Votary of the Conclave,Creature  - Human Soldier,{W}
+1,Vulshok Berserker,Creature  - Human Berserker,{3}{R}
+3,Vulshok Gauntlets,Artifact  - Equipment,{2}
+2,Vulshok Heartstoker,Creature  - Human Shaman,{2}{R}
+1,Vulshok Morningstar,Artifact  - Equipment,{2}
+2,Vulshok Replica,Artifact Creature  - Berserker,{3}
+1,Vulshok War Boar,Creature  - Boar Beast,{2}{R}{R}
+4,Wail of the Nim,Instant,{2}{B}
+1,Waking Nightmare,Sorcery  - Arcane,{2}{B}
+1,Walking Atlas,Artifact Creature  - Construct,{2}
+1,Walking Corpse,Creature  - Zombie,{1}{B}
+1,Walking Desecration,Creature  - Zombie,{2}{B}
+2,Walking Dream,Creature  - Illusion,{3}{U}
+1,Wall of Brambles,Creature  - Plant Wall,{2}{G}
+1,Wall of Glare,Creature  - Wall,{1}{W}
+1,Wall of Pine Needles,Creature  - Plant Wall,{3}{G}
+2,Wall of Resistance,Creature  - Wall,{1}{W}
+1,Wall of Spears,Artifact Creature  - Wall,{3}
+5,Wanderer's Twig,Artifact,{1}
+2,Wanderguard Sentry,Creature  - Drone,{4}{U}
+1,Warning,Instant,{W}
+4,Warren Pilferers,Creature  - Goblin Rogue,{4}{B}
+1,Warren-Scourge Elf,Creature  - Elf Warrior,{1}{G}
+1,Warrior's Honor,Instant,{2}{W}
+2,Watchwing Scarecrow,Artifact Creature  - Scarecrow,{4}
+1,Waterspout Djinn,Creature  - Djinn,{2}{U}{U}
+2,Welding Jar,Artifact,{0}
+2,Welkin Guide,Creature  - Bird Cleric,{4}{W}
+2,Welkin Tern,Creature  - Bird,{1}{U}
+2,Whip Vine,Creature  - Plant Wall,{2}{G}
+1,Whiptongue Frog,Creature  - Frog,{2}{U}
+3,Whirlpool Whelm,Instant,{1}{U}
+1,Whispersilk Cloak,Artifact  - Equipment,{3}
+3,White Ward,Enchantment  - Aura,{W}
+2,Whiteout,Instant,{1}{G}
+1,Whitesun's Passage,Instant,{1}{W}
+1,Wickerbough Elder,Creature  - Treefolk Shaman,{3}{G}
+1,Wild Aesthir,Creature  - Bird,{2}{W}
+1,Wild Griffin,Creature  - Griffin,{2}{W}
+3,Wilderness Hypnotist,Creature  - Merfolk Wizard,{2}{U}{U}
+1,Wildwood Geist,Creature  - Spirit,{4}{G}
+1,Wind Drake,Creature  - Drake,{2}{U}
+10,Windrider Eel,Creature  - Fish,{3}{U}
+1,Wingcrafter,Creature  - Human Wizard,{U}
+1,Winged Coatl,Creature  - Snake,{1}{G}{U}
+2,Winnower Patrol,Creature  - Elf Warrior,{2}{G}
+2,Wirefly Hive,Artifact,{3}
+1,Wirewood Elf,Creature  - Elf Druid,{1}{G}
+1,Wirewood Pride,Instant,{G}
+2,Wispmare,Creature  - Elemental,{2}{W}
+5,Wizard Replica,Artifact Creature  - Wizard,{3}
+2,Wood Elves,Creature  - Elf Scout,{2}{G}
+1,Woodland Sleuth,Creature  - Human Scout,{3}{G}
+1,Woodlurker Mimic,Creature  - Shapeshifter,{1}{BG}
+1,Word of Undoing,Instant,{U}
+1,Wrap in Vigor,Instant,{1}{G}
+4,Wrench Mind,Sorcery,{B}{B}
+2,Wring Flesh,Instant,{B}
+1,Wurm's Tooth,Artifact,{2}
+2,Wurmskin Forger,Creature  - Elf Warrior,{5}{G}{G}
+2,Yavimaya Ancients,Creature  - Treefolk,{3}{G}{G}
+1,Yavimaya Gnats,Creature  - Insect,{2}{G}
+1,Yew Spirit,Creature  - Spirit Treefolk,{4}{G}
+3,Yoked Plowbeast,Creature  - Beast,{5}{W}{W}
+2,Yotian Soldier,Artifact Creature  - Soldier,{3}
+2,Youthful Knight,Creature  - Human Knight,{1}{W}
+1,Yuki-Onna,Creature  - Spirit,{3}{R}
+7,Zanam Djinn,Creature  - Djinn,{5}{U}
+1,Zealous Strike,Instant,{1}{W}
+2,Zektar Shrine Expedition,Enchantment,{1}{R}
+2,Zendikar Farguide,Creature  - Elemental,{4}{G}
+1,Zephyr Net,Enchantment  - Aura,{1}{U}
+2,Zhalfirin Knight,Creature  - Human Knight,{2}{W}
