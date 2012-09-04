@@ -1,8 +1,7 @@
 import xml.etree.ElementTree as ET
 
 class invCard:
-  def __init__(self):
-    1 == 1
+  pass
 
 cardList = []
 
@@ -11,13 +10,36 @@ root = tree.getroot()
 print root.tag
 for subtree in root:
   if subtree.tag == "cards":
+    i = 1
     for child in subtree:
-      print child.find('name').text, child.find('type').text
-      if "Land" not in child.find('type').text:
-        if "Artifact" not in child.find('type').text:
-          if "Scheme" not in child.find('type').text:
-            print "Color",child.find('color').text
+      card = invCard()
+      i += 1
+      card.name = child.find('name').text
+      card.type = child.find('type').text
+      card.text = child.find('text').text
+      try:
+        card.cost = child.find('manacost').text
+      except:
+        card.cost = ""
 
+      try:
+        card.color = child.find('color').text
+      except:
+        card.color = "Colorless"
+
+      try:
+        card.pt = child.find('pt').text
+      except:
+        card.pt = ""
+
+      print card.name
+      print card.type
+      print card.cost
+      print card.color
+      print card.text
+      print card.pt
+      print ""
+      print ""
 for line in open('inventory.csv'):
   
   split = line.split(',')
